@@ -1,0 +1,61 @@
+############################################
+##
+##
+##            theme/hyprdak
+##
+##
+############################################
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
+bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
+italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
+size = 14
+
+[window]
+padding.x = 14
+padding.y = 14
+decorations = "None"
+
+[keyboard]
+bindings = [
+{ key = "F11", action = "ToggleFullscreen" }
+]
+
+
+[colors]
+
+[colors.normal]
+black   = "#72696a"
+red = "#ff1100"
+green = "#00ff90"
+yellow = "#eeff00"
+blue = "#006fff"
+magenta = "#ff006f"
+cyan = "#00c3d1"
+white = "#f0f0e9"
+
+[colors.bright]
+black = "#948a8b"
+red     = "#FF003C"
+green   = "#6eff00"
+yellow  = "#FCEE09"
+blue    = "#4a7aff"
+magenta = "#ff00ee"
+cyan    = "#00f0ff"
+white   = "#FAFAFA"
+
+[colors.cursor]
+cursor = '#00f0ff'
+text = '#050a0e'
+
+[colors.primary]
+background = '#050A0E'
+foreground = '#00C3D1'
+
+[colors.selection]
+background = '#fcee09'
+text = '#050a0e'
