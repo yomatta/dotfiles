@@ -1,0 +1,17 @@
+balena-etcher
+dropbox
+elephant
+elephant-archlinuxpkgs
+elephant-calc
+elephant-desktopapplications
+elephant-files
+elephant-runner
+elephant-todo
+elephant-websearch
+pinta
+pyprland
+sublime-text-4
+ticktick
+walker-bin
+xp-pen-tablet
+youwee-bin
