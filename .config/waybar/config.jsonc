@@ -4,7 +4,7 @@
         "reload_style_on_change": true,
         "modules-left": ["hyprland/workspaces"],
         "modules-center": ["clock"],
-        "modules-right": ["group/expand","bluetooth","network","battery","custom/notification"],
+        "modules-right": ["tray","group/expand","bluetooth","network","battery","custom/notification"],
 
 
         "hyprland/workspaces": {
@@ -27,7 +27,7 @@
         },
 
         "clock": {
-            "format": "{:%A %b %d | %H:%M}",
+            "format": "{:%A %b %d | %I:%M %p}",
             "interval": 1,
             "tooltip-format": "<tt>{calendar}</tt>",
             "calendar": {

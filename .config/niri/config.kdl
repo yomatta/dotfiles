@@ -21,6 +21,7 @@ spawn-at-startup "waybar"
 //spawn-at-startup "qs -c noctalia-shell"
 spawn-sh-at-startup "swaybg -i ~/wallpapers/dream-1.png"
 spawn-sh-at-startup "/usr/lib/polkit-kde-authentication-agent-1 &" // Polkit
+spawn-at-startup "mako"
 
 // To run a shell command (with variables, pipes, etc.), use spawn-sh-at-startup:
 // spawn-sh-at-startup "qs -c ~/source/qs/MyAwesomeShell"
@@ -207,7 +208,7 @@ layout {
     // - "on-overflow", focusing a column will center it if it doesn't fit
     //   together with the previously focused column.
     center-focused-column "never"
-    always-center-single-column
+    //always-center-single-column
 
     // You can customize the widths that "switch-preset-column-width" (Mod+R) toggles between.
     preset-column-widths {
@@ -398,6 +399,25 @@ window-rule {
     match at-startup=true
     open-on-output "DP-3"
 
+
+}
+
+window-rule {
+    match app-id="firefox"
+    //open-floating true
+    //open-on-workspace "drawref"
+    default-column-width { proportion 0.5; }
+
+    //preset-column-widths {
+    //    proportion 0.25;
+    //    proportion 0.33333;
+    //    proportion 0.5;
+    //    proportion 0.66667;
+    //    proportion 0.75;
+
+    //    // Fixed sets the width in logical pixels exactly.
+    //    // fixed 1920
+    //}
 
 }
 
