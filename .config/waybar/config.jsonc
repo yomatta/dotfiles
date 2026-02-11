@@ -2,9 +2,12 @@
         "layer": "top",
         "position": "top",
         "reload_style_on_change": true,
-        "modules-left": ["hyprland/workspaces"],
+        "modules-left": ["niri/workspaces"],
         "modules-center": ["clock"],
-        "modules-right": ["tray","group/expand","bluetooth","network","battery","custom/notification"],
+        "modules-right": ["tray","pulseaudio","bluetooth","network"],
+
+
+        /////// MODULES /////////
 
 
         "hyprland/workspaces": {
@@ -19,12 +22,21 @@
             }
         },
 
-        "custom/notification": {
-            "tooltip": false,
-            "format": "",
-            "on-click": "swaync-client -t -sw",
-            "escape": true
+        "niri/workspaces": {
+            "format": "{icon}",
+            "format-icons": {
+                "drawref": "",
+                "game": "",
+                "draw": ""
+            },
         },
+
+       // "custom/notification": {
+       //     "tooltip": false,
+       //     "format": "",
+       //     "on-click": "swaync-client -t -sw",
+       //     "escape": true
+       // },
 
         "clock": {
             "format": "{:%A %b %d | %I:%M %p}",
@@ -85,42 +97,42 @@
             ],
         },
 
-        "custom/expand": {
-            "format": "",
-            "tooltip": false
-        },
+        //"custom/expand": {
+        //    "format": "",
+        //    "tooltip": false
+        //},
 
-        "custom/endpoint":{
-            "format": "|",
-            "tooltip": false
-        },
+        //"custom/endpoint":{
+        //    "format": "|",
+        //    "tooltip": false
+        //},
 
-        "group/expand": {
-            "orientation": "horizontal",
-            "drawer": {
-                "transition-duration": 600,
-                "transition-to-left": true,
-                "click-to-reveal": true
-            },
-            "modules": ["custom/expand", "cpu","memory","temperature","custom/endpoint"],
-        },
+        //"group/expand": {
+        //    "orientation": "horizontal",
+        //    "drawer": {
+        //        "transition-duration": 600,
+        //        "transition-to-left": true,
+        //        "click-to-reveal": true
+        //    },
+        //    "modules": ["custom/expand", "cpu","memory","temperature","custom/endpoint"],
+        //},
 
-        "cpu": {
-            "format": "󰻠",
-            "tooltip": true
-        },
+        //"cpu": {
+        //    "format": "󰻠",
+        //    "tooltip": true
+        //},
 
-        "memory": {
-            "format": ""
-        },
+        //"memory": {
+        //    "format": ""
+        //},
 
-        "temperature": {
-            "critical-threshold": 80,
-            "format": "",
-        },
+        //"temperature": {
+        //    "critical-threshold": 80,
+        //    "format": "",
+        //},
 
         "tray": {
-            "icon-size": 14,
+            "icon-size": 18,
             "spacing": 10
         },
 }
