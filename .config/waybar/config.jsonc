@@ -2,13 +2,17 @@
         "layer": "top",
         "position": "top",
         "reload_style_on_change": true,
-        "modules-left": ["niri/workspaces"],
+        "modules-left": ["wlr/taskbar"],
         "modules-center": ["clock"],
         "modules-right": ["tray","pulseaudio","bluetooth","network"],
 
 
         /////// MODULES /////////
 
+
+        "wlr/taskbar": {
+            "tooltip-format": "{title} | {app_id}"
+        },
 
         "hyprland/workspaces": {
             "format": "{icon}",

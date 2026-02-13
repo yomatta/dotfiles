@@ -257,6 +257,7 @@ layout {
 
         // Color of the ring on the active monitor.
         active-color "#7fc8ff"
+        //active-color ""
 
         // Color of the ring on inactive monitors.
         //
@@ -432,8 +433,9 @@ window-rule {
 
 window-rule {
     match title="Steam"
-    open-floating true
+    //open-floating true
     open-on-workspace "game"
+    open-fullscreen true
 
 }
 
@@ -460,6 +462,16 @@ window-rule {
     open-on-workspace "drawref"
 
 }
+
+window-rule {
+    match title="Selective Sync" app-id="dropbox"
+    open-floating true
+    open-focused true
+    min-width 600 
+    min-height 800
+
+}
+
 
 // *********************************************************
 // ***
