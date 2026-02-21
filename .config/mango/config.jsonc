@@ -1,0 +1,120 @@
+// -*- mode: jsonc -*-
+{
+    "layer": "top", 
+    "position": "top", 
+    "height": 30, 
+    "spacing": 4, 
+
+    // Choose the order of the modules
+    "modules-left": [
+        "ext/workspaces"
+    ],
+    "modules-center": [
+        "clock"
+    ],
+
+    "modules-right": [
+        "tray",
+        "custom/sep",
+        "bluetooth",
+        "custom/sep",
+        "network",
+        "custom/sep",
+        "cpu",
+        "custom/sep",
+        "memory",
+        "custom/sep",
+        "disk"
+    ],
+
+    // Modules configuration
+    "ext/workspaces": {
+        "format": "{name}",
+        "ignore-hidden": false,
+        "on-click": "activate",
+        "sort-by-id": true
+    },
+
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+        // "icons": {
+        //   "blueman": "bluetooth",
+        //   "TelegramDesktop": "$HOME/.local/share/icons/hicolor/16x16/apps/telegram.png"
+        // }
+    },
+
+    "clock": {
+        "format": "{:%A %b %d | %I:%M %p}",
+        "interval": 1,
+        "format-alt": "{:%Y-%m-%d}"
+        //"tooltip-format": "<tt>{calendar}</tt>",
+        //"calendar": {
+        //    "format": {
+        //        "today": "<span color='#fAfBfC'><b>{}</b></span>"
+        //    }
+        //},
+        //"actions": {
+        //    "on-click-right": "shift_down",
+        //    "on-click": "shift_up"
+        //}
+    },
+
+    "cpu": {
+        "format": "C: {usage}%",
+        "tooltip": false
+    },
+
+    "memory": {
+        "format": "M: {used}G"
+    },
+
+    "disk": {
+        "interval": 60,
+        "path": "/",
+        "format": "HD: {free}"
+    },
+
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "Bat: {capacity}% {icon} {time}",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "Bat {capacity}%",
+        "format-time": "{H}:{M}",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "network": {
+        "format-wifi": "",
+        "format-ethernet":"",
+        "format-disconnected": "",
+        "tooltip-format-disconnected": "Error",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+        "tooltip-format-ethernet": "{ifname} 🖧 ",
+        "on-click": "alacritty -e nmtui connect"
+        //"format": "Online",
+        //"format-disconnected": "Disconnected ⚠"
+    },
+
+    "bluetooth": {
+        "format-on": "󰂯",
+        "format-off": "BT-off",
+        "format-disabled": "󰂲",
+        "format-connected-battery": "{device_battery_percentage}% 󰂯",
+        "format-alt": "{device_alias} 󰂯",
+        "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
+        "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",
+        "on-click-right": "alacritty -e bluetui"
+    },
+
+    "custom/sep": {
+        "format" : "|",
+        "interval" : 0
+    }
+}
