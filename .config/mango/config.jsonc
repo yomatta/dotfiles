@@ -2,12 +2,15 @@
 {
     "layer": "top", 
     "position": "top", 
+    // "height": 30, 
     "height": 30, 
     "spacing": 4, 
 
     // Choose the order of the modules
     "modules-left": [
-        "ext/workspaces"
+        "ext/workspaces",
+        "custom/sep",
+        "dwl/window"
     ],
     "modules-center": [
         "clock"
@@ -33,6 +36,10 @@
         "ignore-hidden": false,
         "on-click": "activate",
         "sort-by-id": true
+    },
+
+    "dwl/window": {
+        "format": "[{layout}] ({title})"
     },
 
     "tray": {

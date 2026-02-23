@@ -9,7 +9,7 @@ dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 swaync &
 
 # wallpaper
-swaybg -i ~/walls/wall1.png >/dev/null 2>&1 &
+swaybg -i ~/walls/background.png >/dev/null 2>&1 &
 
 # topbar
 waybar -c ~/.config/mango/config.jsonc -s ~/.config/mango/style.css >/dev/null 2>&1 &
