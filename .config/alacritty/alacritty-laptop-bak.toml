@@ -1,61 +1,72 @@
-############################################
-##
-##
-##            theme/hyprdak
-##
-##
-############################################
-
 [env]
 TERM = "xterm-256color"
-
-[font]
-normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
-bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
-italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
-size = 16
+WINIT_X11_SCALE_FACTOR = "1"
 
 [window]
-padding.x = 14
-padding.y = 14
-decorations = "None"
+dynamic_padding = true
+decorations = "full"
+title = "Alacritty@CachyOS"
+opacity = 0.65
+decorations_theme_variant = "Dark"
 
+[window.dimensions]
+columns = 100
+lines = 30
+
+[window.class]
+instance = "Alacritty"
+general = "Alacritty"
+
+[scrolling]
+history = 10000
+multiplier = 3
 
 [colors]
-
-[colors.normal]
-black   = "#72696a"
-red = "#ff1100"
-green = "#00ff90"
-yellow = "#eeff00"
-blue = "#006fff"
-magenta = "#ff006f"
-cyan = "#00c3d1"
-white = "#f0f0e9"
-
-[colors.bright]
-black = "#948a8b"
-red     = "#FF003C"
-green   = "#6eff00"
-yellow  = "#FCEE09"
-blue    = "#4a7aff"
-magenta = "#ff00ee"
-cyan    = "#00f0ff"
-white   = "#FAFAFA"
-
-[colors.cursor]
-cursor = '#00f0ff'
-text = '#050a0e'
+draw_bold_text_with_bright_colors = true
 
 [colors.primary]
-background = '#050A0E'
-foreground = '#00C3D1'
+#background = "0x2E3440"
+background = "0x17223A"
+foreground = "0xD8DEE9"
 
-[colors.selection]
-background = '#fcee09'
-text = '#050a0e'
+[colors.normal]
+black = "0x3B4252"
+red = "0xBF616A"
+green = "0xA3BE8C"
+yellow = "0xEBCB8B"
+blue = "0x81A1C1"
+magenta = "0xB48EAD"
+cyan = "0x88C0D0"
+white = "0xE5E9F0"
 
+[colors.bright]
+black = "0x4C566A"
+red = "0xBF616A"
+green = "0xA3BE8C"
+yellow = "0xEBCB8B"
+blue = "0x81A1C1"
+magenta = "0xB48EAD"
+cyan = "0x8FBCBB"
+white = "0xECEFF4"
 
+[font]
+size = 12
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
 
 [selection]
 semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
@@ -75,10 +86,6 @@ mouse = "Middle"
 action = "PasteSelection"
 
 [keyboard]
-#bindings = [
-#{ key = "F11", action = "ToggleFullscreen" }
-#]
-
 [[keyboard.bindings]]
 key = "Paste"
 action = "Paste"

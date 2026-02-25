@@ -102,7 +102,7 @@
         "tooltip-format-disconnected": "Error",
         "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
         "tooltip-format-ethernet": "{ifname} 🖧 ",
-        "on-click": "alacritty -e nmtui connect"
+        "on-click": "alacritty -e impala"
         //"format": "Online",
         //"format-disconnected": "Disconnected ⚠"
     },
