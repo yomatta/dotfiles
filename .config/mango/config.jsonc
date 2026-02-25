@@ -8,9 +8,9 @@
 
     // Choose the order of the modules
     "modules-left": [
-        "ext/workspaces",
-        "custom/sep",
-        "dwl/window"
+        "ext/workspaces"
+        //"custom/sep",
+        //"dwl/window"
     ],
     "modules-center": [
         "clock"

@@ -35,13 +35,20 @@ Source: http://wiki.archlinux.org/title/Niri
 - `xdg-desktop-portal-kde` : as a desktop portal 
 - `xwayland-satellite` : to run X11 apps
 - `udiskie` : to manage and auto-mount USB drives
-- `bluetui` : bluetooth TUI (launch from waybar)
-- `impala` : iwd TUI front end (need to reconfigure standard cachyOS install to use IWD instead of NetworkManager)
+- `bluetui` : bluetooth TUI (launch from `waybar`)
+- `impala` : `iwd` TUI front end (need to reconfigure standard cachyOS install to use `iwd` instead of `NetworkManager`)
 - `thunar`, `thunar-dropbox(AUR)` : file explorer and dropbox support
 - `dropbox(AUR)` : dropbox
 - `libreoffice-fresh` : libreoffice
 
+### Various Packages
 
+- `tealdeer` : tldr
+- `tree` : terminal tree viewer
+- `fzf` : fuzzyfind
+- `yazi` : terminal file explorer
+- `eza` : alternative to `ls`
+- `ticktick (aur)` : to-do list. (not sure what the actual aur package name is)
 
 ### impala Setup
 
