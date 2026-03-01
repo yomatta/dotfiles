@@ -68,3 +68,28 @@ Per Google AI:
 
 **Note: If you encounter issues, you can remove the configuration file from Step 2 and restart NetworkManager to revert to using `wpa_supplicant`.
 
+
+## Master Package List (post-Cachy?)
+A list of packages/apps to be installed after a base cachyOS installation.
+
+niri
+waybar
+mako
+alacritty
+neovim
+wofi
+yazi
+thunar
+swaybg
+xdg-desktop-portal-kde
+xwayland-satellite
+iwd
+impala
+bluetui
+libreoffice-fresh
+tealdeer
+tree
+fzf
+eza
+ttf-jetbrains-mono-nerd
+ttf-cascadia-mono-nerd
