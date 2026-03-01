@@ -19,7 +19,7 @@
 spawn-at-startup "waybar"
 //spawn-at-startup "noctalia-shell"
 //spawn-at-startup "qs -c noctalia-shell"
-spawn-sh-at-startup "swaybg -i ~/wallpapers/dream-1.png"
+spawn-sh-at-startup "swaybg -i ~/walls/dream-1.png"
 spawn-sh-at-startup "/usr/lib/polkit-kde-authentication-agent-1 &" // Polkit
 spawn-at-startup "mako"
 
