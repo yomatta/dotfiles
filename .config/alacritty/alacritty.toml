@@ -16,9 +16,11 @@ italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
 size = 13
 
 [window]
+dynamic_padding = true
 padding.x = 14
 padding.y = 14
-decorations = "None"
+decorations = "full"
+decorations_theme_variant = "Dark"
 opacity = 0.65
 
 

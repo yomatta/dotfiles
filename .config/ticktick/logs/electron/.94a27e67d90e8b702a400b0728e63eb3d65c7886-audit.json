@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 7
+    },
+    "auditLog": "/home/mat/.config/ticktick/logs/electron/.94a27e67d90e8b702a400b0728e63eb3d65c7886-audit.json",
+    "files": [
+        {
+            "date": 1768700860191,
+            "name": "/home/mat/.config/ticktick/logs/electron/electron-2026-01-17.log",
+            "hash": "ac87e05cfc26c3624033004f3bd16b92"
+        },
+        {
+            "date": 1768758051281,
+            "name": "/home/mat/.config/ticktick/logs/electron/electron-2026-01-18.log",
+            "hash": "5a785fd8870b5383ae19d61fd1222637"
+        }
+    ]
+}

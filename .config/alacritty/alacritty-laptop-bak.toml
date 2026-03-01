@@ -26,6 +26,8 @@ draw_bold_text_with_bright_colors = true
 
 [colors.primary]
 #background = "0x2E3440"
+#background = "0x17223A"
+#foreground = "0xD8DEE9"
 background = "0x17223A"
 foreground = "0xD8DEE9"
 
