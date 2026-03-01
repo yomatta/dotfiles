@@ -248,7 +248,7 @@ layout {
         // off
 
         // How many logical pixels the ring extends out from the windows.
-        width 3
+        width 2
 
         // Colors can be set in a variety of ways:
         // - CSS named colors: "red"
@@ -499,8 +499,8 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
     Mod+Space hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
     Mod+B hotkey-overlay-title="Open Browser: Firefox" { spawn "firefox"; }
-    MOD+E hotkey-overlay-title="Open File Explorer: Dolphin" { spawn "dolphin"; }
-    MOD+SHIFT+E { spawn "thunar"; }
+    MOD+E hotkey-overlay-title="Open File Explorer: Thunar" { spawn "thunar"; }
+    MOD+SHIFT+E { spawn-sh "alacritty -e yazi"; }
 
     //Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
