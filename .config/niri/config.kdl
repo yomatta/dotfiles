@@ -17,7 +17,7 @@
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
 //spawn-at-startup "waybar"
-spawn-at-startup "waybar -c ~/.config/niri/config-niri.jsonc -s ~/.config/niri/style-niri.css >/dev/null 2>&1 &"
+spawn-sh-at-startup "waybar -c ~/.config/niri/config-niri.jsonc -s ~/.config/niri/style-niri.css >/dev/null 2>&1 &"
 
 
 //spawn-at-startup "noctalia-shell"
