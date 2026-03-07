@@ -1,0 +1,41 @@
+# _*_ conf _*_
+# my theme
+
+[colors-dark]
+foreground=00c3d1
+background=050a0e
+
+#not sure how these correspond to which colors are chosen on screen
+regular0=72696a #black
+regular1=ff1100 #red
+regular2=00ff90 #green
+regular3=eeff00 #yellow
+regular4=006fff #blue
+regular5=ff006f #magenta
+regular6=00c3d1 #cyan
+regular7=f0f0e9 #white
+
+bright0=948a8b #black
+bright1=ff003c #red
+bright2=6eff00 #green
+bright3=fcee09 #yellow
+bright4=4a7aff #blue
+bright5=ff00ee #magenta
+bright6=00f0ff #cyan
+bright7=fafafa #white
+
+#might need to switch these (foreground v background)
+cursor=050a0e 00f0ff
+
+#idk what this is
+16=fab387
+17=f5e0dc
+
+selection-foreground=050a0e
+selection-background=fcee09
+
+search-box-no-match=11111b f38ba8
+search-box-match=cdd6f4 313244
+
+jump-labels=11111b fab387
+urls=89b4fa
