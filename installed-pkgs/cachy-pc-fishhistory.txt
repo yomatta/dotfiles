@@ -1,0 +1,1698 @@
+2026-03-07 02:20:47 history
+2026-03-07 02:18:31 tldr expac
+2026-03-07 02:18:25 expac --help
+2026-03-07 02:17:30 nvim recent.txt
+2026-03-07 02:17:25 ls
+2026-03-07 02:17:24 rip > recent.txt
+2026-03-07 02:15:28 tldr wget
+2026-03-07 02:15:13 vdir .config/
+2026-03-07 02:15:06 dir .config/
+2026-03-07 02:14:55 dir
+2026-03-07 02:14:40 vdir
+2026-03-07 02:14:39 vidr
+2026-03-07 02:12:54 yazi
+2026-03-07 02:12:43 cleanup
+2026-03-07 02:12:33 update
+2026-03-07 01:52:17 ncdu /
+2026-03-07 01:52:11 tldr ncdu
+2026-03-07 01:50:45 gvfs
+2026-03-07 01:50:27 man gvfs
+2026-03-07 01:50:24 tldr gvfs
+2026-03-07 01:49:33 dysk
+2026-03-07 01:49:30 duf
+2026-03-07 01:48:59 duf --all
+2026-03-07 01:48:41 duf /home/mat/.cache/
+2026-03-07 01:48:12 tldr duf
+2026-03-07 01:47:36 dysk .
+2026-03-07 01:47:25 dysk -a
+2026-03-07 01:46:07 dysk --help
+2026-03-07 01:45:39 dysk --help | less
+2026-03-07 01:45:12 tldr dysk
+2026-03-07 01:45:04 dysk .cache/
+2026-03-07 01:44:28 tldr cryptsetup
+2026-03-07 01:44:09 chwd
+2026-03-07 01:44:07 man chwd
+2026-03-07 01:44:03 tldr chwd
+2026-03-07 01:42:32 pacman -Qqen > dotfiles/installed-pkgs/cachy-pc-pkglist.txt
+2026-03-07 01:40:51 pacman -Qe > ~/dotfiles/installed-pkgs/cachy-pc-pkglist.txt
+2026-03-07 01:38:33 pacman -Qe | less
+2026-03-07 01:36:02 wiremix
+2026-03-07 01:35:52 sudo pacman -S wiremix
+2026-03-07 01:35:48 sudo pacman -S wiremixer
+2026-03-07 01:34:03 man pipewire
+2026-03-07 01:33:49 tldr pipewire
+2026-03-07 01:33:39 tldr wireplumber
+2026-03-07 01:29:24 cd
+2026-03-07 01:29:19 git pull origin main
+2026-03-07 01:29:14 git push origin main
+2026-03-07 01:29:11 git commit -m "var fish config"
+2026-03-07 01:29:03 git add .
+2026-03-07 01:29:00 git status
+2026-03-07 01:28:56 cd dotfiles/
+2026-03-07 01:26:33 ls Downloads
+2026-03-07 01:25:50 cat .config/fish/config.fish
+2026-03-07 01:25:22 cat .config/fish/fish_profile.fish
+2026-03-07 01:25:11 cat .config/fish/cachyos-config.fish
+2026-03-07 01:24:34 bsyncetc
+2026-03-07 01:24:17 bsync
+2026-03-07 01:23:39 rm -rf .cache/yay/*
+2026-03-07 01:23:25 la .cache/yay/
+2026-03-07 01:22:44 la .cache/paru/
+2026-03-07 01:22:36 rm -rf .cache/paru/*
+2026-03-07 01:22:11 la .cache/paru/clone/
+2026-03-07 01:21:33 la .cache/
+2026-03-07 01:21:31 la
+2026-03-07 01:21:18 lt .cache/
+2026-03-07 01:21:06 ls .cache/
+2026-03-07 01:20:59 ll .cache/
+2026-03-07 01:20:55 ll /.cache/
+2026-03-07 01:20:38 la ~/.cache
+2026-03-07 01:20:28 la ~/.cache/
+2026-03-07 01:20:07 la ~/.config/yay/
+2026-03-07 01:20:04 la ~/.config/yay
+2026-03-07 01:19:53 la ~/.config/
+2026-03-07 01:19:37 sudo paccache -ruk0
+2026-03-07 01:19:20 sudo paccache -rk2
+2026-03-07 01:18:28 tldr paccache
+2026-03-07 01:17:01 duf ~/.cache/
+2026-03-07 01:14:31 mirror
+2026-03-07 01:13:12 yay
+2026-03-07 01:10:04 sudo reboot now
+2026-03-07 01:04:50 less /etc/limine-snapper-sync.conf
+2026-03-07 01:03:33 less /etc/imv_config
+2026-03-07 01:02:44 la /etc/conf.d/
+2026-03-07 01:02:24 ls /etc/ | less
+2026-03-07 01:02:09 la /etc/ | less
+2026-03-07 01:01:57 la /etc/
+2026-03-07 01:01:41 source ~/.config/fish/config.fish
+2026-03-07 01:01:04 rip | less
+2026-03-07 01:00:58 rip
+2026-03-07 01:00:32 tldr --update
+2026-03-07 01:00:20 tldr nc
+2026-03-07 00:59:07 hw | less
+2026-03-07 00:59:02 hw
+2026-03-07 00:59:01 gw
+2026-03-07 00:49:15 yaqzi
+2026-03-07 00:42:49 nvim ~/dotfiles
+2026-03-07 00:42:11 touch .fish_profile
+2026-03-07 00:40:14 history | grep rsync
+2026-03-07 00:39:44 history | less
+2026-03-07 00:39:41 less history
+2026-03-07 00:38:40 ls .local/
+2026-03-07 00:38:32 mkdir -p .local/bin
+2026-03-07 00:38:17 mkdir -r .local/bin/
+2026-03-07 00:37:32 la .local/share
+2026-03-07 00:37:28 la .local/
+2026-03-07 00:36:49 l.
+2026-03-07 00:36:39 lt
+2026-03-07 00:36:28 ll
+2026-03-07 00:33:47 set --help
+2026-03-07 00:33:29 tldr set
+2026-03-07 00:31:43 tldr test
+2026-03-07 00:31:30 cat .fish_profile
+2026-03-07 00:26:18 cp /usr/share/cachyos-fish-config/conf.d/done.fish ~/dotfiles/.config/fish/cachy-done.fish
+2026-03-06 05:30:13 sudo shutdown now
+2026-03-03 23:08:30 git commit -m "fixing niri config: waybar initialization"
+2026-03-03 11:47:07 waybar -c ~/.config/niri/config-niri.jsonc -s ~/.config/niri/style-niri.css & disown
+2026-03-03 11:46:19 exit
+2026-03-03 11:45:33 waybar -c ~/.config/niri/config-niri.jsonc -s ~/.config/niri/style-niri.css &
+2026-03-02 05:33:01 btop
+2026-03-01 15:36:24 git commit -m "separate niri waybar files"
+2026-03-01 14:25:09 git commit -m "var / impala setup script"
+2026-03-01 14:24:41 ..
+2026-03-01 14:02:07 nvim .
+2026-03-01 14:01:20 pacman -Qe | grep font >> ~/dotfiles/installed-pkgs/fonts.txt
+2026-03-01 14:01:03 cat fonts.txt
+2026-03-01 14:01:00 pacman -Qe | grep ttf >> ~/dotfiles/installed-pkgs/fonts.txt
+2026-03-01 14:00:39 touch fonts.txt
+2026-03-01 14:00:18 cd installed-pkgs/
+2026-03-01 14:00:13 ls installed-pkgs
+2026-03-01 13:59:36 pacman -Qe | grep ttf
+2026-03-01 13:59:20 pacman -Qe | grep font
+2026-03-01 13:54:55 gh repo create --source=. --private --push
+2026-03-01 13:54:04 gh status
+2026-03-01 13:53:11 git -h
+2026-03-01 13:52:58 git commit -m "first commit: wallpapers"
+2026-03-01 13:52:29 git init
+2026-03-01 13:52:10 cd ~/walls/
+2026-03-01 13:51:55 git commit -m "niri config - change startup wallpaper to walls/ file location"
+2026-03-01 13:49:02 ls walls/
+2026-03-01 13:48:59 mv wallpapers/ walls/
+2026-03-01 13:48:35 ls ..
+2026-03-01 13:48:11 git push origina main
+2026-03-01 13:48:03 git commit -m "re-org dotfiles in prep of switching main system"
+2026-03-01 12:58:47 This is foot. Font so small.
+2026-03-01 12:58:06 sudo pacman -S foot
+2026-03-01 12:46:56 subl
+2026-03-01 12:46:33 sublime
+2026-03-01 12:38:48 nvim dotfiles/
+2026-02-28 21:26:05 echo "$EDITOR"
+2026-02-28 21:24:11 bash
+2026-02-28 21:03:52 ghostty
+2026-02-28 20:09:12 ls dotfiles/.config/fish
+2026-02-28 20:09:08 ls dotfiles/.config/
+2026-02-28 20:08:45 ls .config/
+2026-02-28 20:06:07 ls ~/.config
+2026-02-28 20:01:38 echo $EDITOR
+2026-02-28 19:56:53 ln -s ~/dotfiles/.config/yazi/ ~/.config/
+2026-02-28 19:56:10 ls .config
+2026-02-28 19:55:44 git commit -m "var"
+2026-02-28 19:55:27 cd dotfiles
+2026-02-28 09:45:51 sudo shutdown onw
+2026-02-27 15:25:44 ls 'Tourbox Console'
+2026-02-27 15:25:31 cd drive_c/'Program Files'
+2026-02-27 15:25:18 ls drive_c
+2026-02-27 15:25:11 ls .exe-downloads/
+2026-02-27 15:25:05 cd .wine
+2026-02-27 15:24:21 wine 'TourBox_'Console\ _Setup_5.11.1.exe
+2026-02-27 15:24:07 cd TourBoxConsoleSetup_5.11.1/
+2026-02-27 15:24:00 cd Downloads
+2026-02-27 15:23:40 ls .steam
+2026-02-27 15:21:29 fzf
+2026-02-27 15:20:10 cd System/
+2026-02-27 15:20:00 cd 'Common Files/'
+2026-02-27 15:19:53 cd .wine/drive_c/Program\ Files\ \(x86\)/
+2026-02-27 15:19:40 ls .wine/drive_c/Program\ Files\ \(x86\)/
+2026-02-27 15:19:27 ls .wine
+2026-02-26 20:05:10 sudo cachyos-rate-mirrors
+2026-02-25 20:53:37 waybar & disown
+2026-02-25 20:52:49 pkill waybar && waybar & disown
+2026-02-25 20:45:15 pavucontrol
+2026-02-25 20:40:28 pacman -Qe | grep wire
+2026-02-25 20:39:07 ls /etc/xdg/autostart
+2026-02-25 20:38:25 cat /etc/xdg/autostart/baloo_file.desktop | less
+2026-02-25 20:38:16 cat /etc/xdg/autostart/baloo_file.desktop
+2026-02-25 20:33:21 nvim .config/
+2026-02-25 20:33:15 touch .config/autostart/org.gnome.Evolution-alarm-notify.desktop
+2026-02-25 20:32:44 ls .config/autostart/
+2026-02-25 20:28:35 sudo pacman -Rns blueman
+2026-02-25 20:25:50 systemctl list-units | grep -i bluetooth
+2026-02-25 20:24:33 systemctl status bluetooth
+2026-02-25 20:21:59 sudo pacman -S ttf-jetbrains-mono-nerd
+2026-02-25 20:19:57 bluetui
+2026-02-25 20:15:05 pkill waybar && waybar &
+2026-02-25 20:11:27 nmcli radio wifi
+2026-02-25 20:11:19 sudo systemctl restart NetworkManager
+2026-02-25 20:10:50 sudo nvim /etc/NetworkManager/conf.d/wifi_backend.conf
+2026-02-25 20:10:12 ls installed-pkgs/
+2026-02-25 20:10:01 sudo pacman -S iwd
+2026-02-25 20:09:35 sudo pacman -S bluetui impala
+2026-02-25 20:08:21 sudo pacman -S chafa
+2026-02-25 20:07:16 sudo pacman -S tree
+2026-02-25 20:07:05 sudo pacman -S yazi
+2026-02-25 20:04:15 nvim .config/niri
+2026-02-25 20:03:34 ls scripts/
+2026-02-25 20:03:23 cat README.md
+2026-02-25 19:58:28 UPDATE
+2026-02-22 01:40:02 shutdown now
+2026-02-21 23:50:31 pkill dolphin
+2026-02-21 19:26:44 cleanup -h
+2026-02-21 19:21:08 sudo pacman -Syu
+2026-02-21 08:21:52 git rebase main
+2026-02-18 21:40:29 nvim .config/niri/config.kdl
+2026-02-18 15:25:58 BTOP
+2026-02-14 22:58:43 lsblk -f
+2026-02-14 22:58:35 lsblk
+2026-02-14 22:56:47 ls /root/
+2026-02-14 22:56:28 ls /
+2026-02-14 22:52:48 nvim /etc/fstab
+2026-02-14 22:52:41 cat /etc/fstab
+2026-02-14 22:52:27 ls /etc/fstab
+2026-02-14 22:52:04 ls /etc
+2026-02-14 22:38:08 nmwin
+2026-02-14 22:32:00 nmcli dev
+2026-02-14 21:53:02 ssh mat@192.168.0.77
+2026-02-14 21:44:48 sudo nmap 192.168.0.0/24
+2026-02-14 21:02:24 ssh mat@192.168.0.77/22
+2026-02-14 20:57:44 ip addr
+2026-02-14 20:57:33 fjf
+2026-02-14 20:57:14 sudo pacman -S nmap
+2026-02-14 15:12:19 nvim my-arch.md
+2026-02-14 15:11:54 cd wip
+2026-02-14 15:11:47 cd scripts
+2026-02-14 01:59:15 lsblk -f /dev/nvme4n1
+2026-02-14 01:58:52 lsblk -f /dev/nvme0n1
+2026-02-14 01:58:37 lsblk -f /dev/nvme0
+2026-02-13 23:51:15 nvim
+2026-02-13 23:51:11 mv my-arch.sh my-arch.md
+2026-02-13 23:45:09 nvim my-arch.sh
+2026-02-13 23:45:06 touch my-arch.sh
+2026-02-13 23:44:41 mkdir wip
+2026-02-13 21:53:41 pull origin main
+2026-02-13 21:27:57 ssh root@192.168.0.78
+2026-02-13 14:23:27 cd ..
+2026-02-13 14:23:21 cd projects
+2026-02-13 14:23:01 git commit -m "nvim plugin updates niri updates"
+2026-02-13 12:53:26 sudo dd bs=4M if=archlinux-2026.02.01-x86_64.iso of=/dev/sdc status=progress && sync
+2026-02-13 12:45:59 ls /dev/sdc2
+2026-02-13 12:45:57 ls /dev/sdc1
+2026-02-13 12:45:49 ls /dev/sdc
+2026-02-13 12:45:41 lsblk /dev/sdc
+2026-02-13 12:45:04 sudo fdisk /dev/sdc
+2026-02-13 09:15:19 niri validate
+2026-02-11 22:29:50 cat colortest.md
+2026-02-11 22:29:46 mv colortest colortest.md
+2026-02-11 22:29:37 cat colortest
+2026-02-11 22:29:33 cd themes
+2026-02-11 22:29:28 cd ~/dotfiles
+2026-02-11 22:22:16 nvim /dotfiles
+2026-02-11 22:21:12 nvim volt.lua
+2026-02-11 22:14:15 vim minty.lua
+2026-02-11 22:14:03 cat minty.lua
+2026-02-11 22:01:20 nvim minty.lua
+2026-02-11 22:01:08 vim
+2026-02-11 21:58:25 cd nvim/lua/plugins/
+2026-02-11 21:48:26 nvim config.kdl
+2026-02-11 21:47:15 less config.kdl
+2026-02-11 21:47:11 cd .config/niri
+2026-02-11 21:45:51 cd nvim-treesitter
+2026-02-11 21:45:02 git clean -fdx
+2026-02-11 21:44:38 cd .local/share/nvim/lazy
+2026-02-11 21:25:20 rm color-picker.lua
+2026-02-11 21:25:05 cat color-picker.lua
+2026-02-11 21:23:39 touch minty.lua
+2026-02-11 21:23:30 cd plugins
+2026-02-11 21:13:41 less keymaps.lua
+2026-02-11 21:13:37 cd config
+2026-02-11 21:13:32 cd lua
+2026-02-11 21:09:28 less init.lua
+2026-02-11 21:09:19 less README.md
+2026-02-11 21:09:04 less lazyvim.json
+2026-02-11 21:08:50 less stylua.toml
+2026-02-11 21:08:20 cat options.lua
+2026-02-11 21:08:13 cato options.lua
+2026-02-11 21:06:35 vim lazy.lua
+2026-02-11 21:06:27 cat lazy.lua
+2026-02-11 21:06:00 cat autocmds.lua
+2026-02-11 21:05:43 cat keymaps.lua
+2026-02-11 21:04:19 ls config
+2026-02-11 20:53:47 vim color-picker.lua
+2026-02-11 20:53:42 touch color-picker.lua
+2026-02-11 20:48:41 cat colorizer.lua
+2026-02-11 20:47:46 vim colorizer.lua
+2026-02-11 20:47:23 nvim colorizer.lua
+2026-02-11 20:46:50 cd .config/nvim
+2026-02-11 14:37:39 git commit -m "game-ideas.md"
+2026-02-11 14:32:00 touch game-ideas.md
+2026-02-11 14:31:48 cd games
+2026-02-11 14:19:49 git commit -m "initial commit - manor heroes README"
+2026-02-11 14:19:18 cd ~/projects
+2026-02-11 14:16:58 touch README.md
+2026-02-11 14:16:48 cd games/manor-heroes/
+2026-02-11 14:16:41 mv manor-heroes/ games/
+2026-02-11 14:16:33 mkdir games
+2026-02-11 14:16:20 mkdir manor-heroes
+2026-02-11 14:15:37 git branch -m main
+2026-02-11 14:15:28 git config --global init.defaultBranch main
+2026-02-11 14:13:49 cd ~
+2026-02-11 13:58:50 niri msg pick-window
+2026-02-11 13:53:16 ls Projects-oldbackup.tar.gz
+2026-02-11 13:52:49 tldr unzip
+2026-02-11 13:52:19 unzip --help
+2026-02-11 13:52:01 cd projects-old/
+2026-02-11 13:51:55 mv projects-oldd/ projects-old
+2026-02-11 13:51:50 mv -r projects-oldd/ projects-old
+2026-02-11 13:51:34 mv Projects-oldbackup.tar.gz projects-oldd/
+2026-02-11 13:51:12 mkdir projects-oldd
+2026-02-11 13:50:07 ls bootdev
+2026-02-11 13:49:49 ls text-edit
+2026-02-11 13:49:07 ls omarchy
+2026-02-11 13:40:51 killall waybar && waybar & disown
+2026-02-11 13:27:39 cd text-edit
+2026-02-11 13:27:08 cd bootdev
+2026-02-11 13:24:19 git commit -m "various"
+2026-02-10 21:06:34 git commit -m "yt.py script"
+2026-02-10 21:05:40 sudo pacman -S pip
+2026-02-10 20:57:59 vim tiktok_dlp.py
+2026-02-10 20:57:52 touch tiktok_dlp.py
+2026-02-10 20:41:01 killall
+2026-02-10 19:07:08 systemctl status | grep dropbox
+2026-02-10 19:06:59 systemctl status
+2026-02-10 19:05:49 cd dotfiles/scripts
+2026-02-10 18:52:42 cd .config/waybar
+2026-02-10 12:39:16 sudo mount /dev/nvme3n1p2 /media/storage
+2026-02-10 12:38:54 sudo mount /dev/sdb  /media/vm/
+2026-02-10 12:38:45 sudo mount /dev/sda /media/backup/
+2026-02-10 12:37:46 systemctl daemon-reload
+2026-02-10 12:37:12 sudo findmnt --verify --verbose
+2026-02-10 12:36:54 sudo nvim /etc/fstab
+2026-02-10 12:34:20 sudo pacman -S ntfs-3g
+2026-02-10 12:34:09 pacman -Qe | grep ntfs
+2026-02-10 12:33:05 findmnt --verify --verbose
+2026-02-10 12:28:17 ls /media
+2026-02-10 11:59:00 cd niri
+2026-02-10 11:58:59 cd .config
+2026-02-10 11:58:46 nvim /dotfiles/.config/niri/config.kdl
+2026-02-09 19:18:59 notify-send "Hey" "Hello"
+2026-02-09 19:16:39 mako
+2026-02-09 19:13:21 sudo pacman -S mako
+2026-02-09 19:10:21 updaet
+2026-02-09 12:59:54 git commit -m "apps.md"
+2026-02-07 18:35:27 qemu-system-x86_64 -display help | grep spice
+2026-02-07 17:49:34 pacman -Si wayland
+2026-02-07 17:48:50 pactree niri | less
+2026-02-07 17:48:37 pactree niri | grep wayland
+2026-02-07 17:47:29 pactree niri
+2026-02-07 17:07:11 nvim APPS.md
+2026-02-07 17:06:47 touch APPS.md
+2026-02-07 17:03:32 sudo pacman -Rns emacs
+2026-02-07 17:03:18 eza /usr/share/emacs/site-lisp
+2026-02-07 17:03:11 eza /usr/share/emacs
+2026-02-07 17:02:24 eza /usr/share/
+2026-02-07 17:01:58 ls /usr/share/
+2026-02-07 17:01:50 ls /usr/share/cachyos-zsh-config/
+2026-02-07 17:01:25 cat .zshrc
+2026-02-07 17:01:10 eza -a
+2026-02-07 17:01:01 eza
+2026-02-07 17:00:46 shell
+2026-02-06 19:55:37 brctl show
+2026-02-06 19:54:36 ip add
+2026-02-06 19:48:44 sudo nmtui
+2026-02-06 16:07:31 groups
+2026-02-06 16:07:16 sudo virsh net-list --all
+2026-02-06 16:06:52 sudo pacman -Syu dnsmasq
+2026-02-06 16:02:30 sudo systemctl start libvirtd
+2026-02-06 16:01:15 sudo systemctl restart libvirtd
+2026-02-06 16:00:47 sudo pacman -Rns iptables
+2026-02-06 15:37:49 systemctl status firewalld
+2026-02-06 15:37:25 systemctl status iptables
+2026-02-06 15:36:27 systemctl status nftables
+2026-02-06 15:17:03 egrep -c '(vmx|svm)' /proc/cpuinfo
+2026-02-06 15:08:34 nmtui
+2026-02-06 15:02:51 ip link show
+2026-02-06 14:59:35 systemctl status NetworkManager
+2026-02-06 14:58:55 pacman -Q | grep network
+2026-02-06 14:58:32 pacman -Q | grep net
+2026-02-06 14:58:19 pacman -Q | grep Network
+2026-02-06 14:58:12 pacman -Qe | grep Network
+2026-02-06 14:56:40 ip
+2026-02-06 14:55:59 ifconfig
+2026-02-06 14:55:53 sudo pacman -S ifconfig
+2026-02-06 14:55:38 tldr ifconfig
+2026-02-06 14:48:00 grep -rI "tun" /lib/modules/ | less
+2026-02-06 14:47:52 grep -rI "tun" /lib/modules/
+2026-02-06 14:47:38 grep -rI "tun.ko.gz" /lib/modules/
+2026-02-06 14:46:39 tldr grep
+2026-02-06 14:46:05 ls /lib/modules/
+2026-02-06 14:42:46 lsmod
+2026-02-06 14:40:33 sudo sysctl -w net.ipv4.ip_forward=1
+2026-02-06 14:40:26 sysctl -w net.ipv4.ip_forward=1
+2026-02-06 14:34:40 sudo mount /dev/sdb/ /media/vm/
+2026-02-06 14:34:25 sudo umount /dev/sdb*
+2026-02-06 14:34:15 sudo mkdir /media/vm
+2026-02-06 14:32:11 ls /media/storage
+2026-02-06 14:32:04 sudo mount /dev/sdb /media/storage/
+2026-02-06 14:25:07 sudo systemctl enable --now libvirtd
+2026-02-06 14:24:58 newgrp libvirt
+2026-02-06 14:24:51 sudo usermod -a -G libvirt $(whoami)
+2026-02-06 14:24:16 sudo nvim /etc/libvirt/libvirtd.conf
+2026-02-06 14:23:28 nvim /etc/libvirt/libvirtd.conf
+2026-02-06 14:22:46 yay -S bridge-utils
+2026-02-06 14:22:06 sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 openbsd-netcat ebtables nftables libguestfs
+2026-02-06 14:21:14 less QEMU.md
+2026-02-06 14:20:38 sudo pacman -Rns noctalia-shell
+2026-02-06 14:20:33 pacman -Rns noctalia-shell
+2026-02-06 14:20:22 pacman -Qe | grep noc
+2026-02-06 14:19:23 pacman Qe | less
+2026-02-06 08:56:18 git commit -m "pc pkg list"
+2026-02-05 16:17:28 pacman -Ss "nvidia" | grep install
+2026-02-05 16:16:55 pacman -Ss "nvidia"
+2026-02-05 16:16:26 pacman Qtdq
+2026-02-05 16:15:47 tldr pacman
+2026-02-05 16:09:54 sudo grep -Ri 'hostname' /etc
+2026-02-05 15:36:10 yay -Rns elephant
+2026-02-05 15:35:59 yay -Rns elephant*
+2026-02-05 15:33:07 yay -Rns youwee-bin
+2026-02-05 15:32:25 yay -Rns balena-etcher
+2026-02-05 15:31:12 sudo pacman -Ru --confirm
+2026-02-05 15:28:49 cleanup /
+2026-02-05 15:28:40 sudo pacman -Rns wlsunset
+2026-02-05 15:26:03 tldr rg
+2026-02-05 15:25:55 tldr ripgrep
+2026-02-05 15:24:50 sudo pacman -Rns nano nano-syntax-highlighting
+2026-02-05 15:22:08 pacman -Qqem > cachy-pc-pkglist_aur.txt
+2026-02-05 15:21:44 pacman -Qqen > cachy-pc-pkglist.txt
+2026-02-05 15:15:21 ls -d */
+2026-02-05 15:15:16 rm -r 4kdownload.com/
+2026-02-05 15:14:40 rm -r balenaEtcher/
+2026-02-05 15:13:39 tldr ls
+2026-02-05 15:13:32 ls -d
+2026-02-05 15:13:02 ls -d ~/.config/
+2026-02-05 15:12:32 ls -l  ~/.config/
+2026-02-05 15:09:43 nvim README.md
+2026-02-05 15:09:35 nvim readme.md
+2026-02-05 15:08:48 git commit -m "add nvim/lazyvim configs"
+2026-02-05 15:08:36 git merge -m "add nvim/lazyvim configs"
+2026-02-05 15:07:34 ls cachyos/cachyos-hello/
+2026-02-05 15:07:28 ls cachyos
+2026-02-05 15:07:04 ln -s ~/dotfiles/.config/nvim/ ~/.config/
+2026-02-05 15:06:29 rm -r ~/.config/nvim/
+2026-02-05 15:06:06 rm -r /nvim/
+2026-02-05 15:05:35 less konsolerc
+2026-02-05 15:04:26 ls ~/dotfiles/.config/nvim/
+2026-02-05 15:04:21 ls ~/dotfiles/.config/
+2026-02-05 15:04:13 cp -r ~/.config/nvim/ ~/dotfiles/.config/
+2026-02-05 15:03:36 rm -d  ~/dotfiles/.config/nvim/
+2026-02-05 15:03:09 tldr cp
+2026-02-05 15:02:54 rm -d  ~/dotfiles/.config/nvim/syntax/
+2026-02-05 15:02:32 rm --help
+2026-02-05 15:02:27 rm -h
+2026-02-05 15:02:23 rm -help
+2026-02-05 15:01:49 tldr rm
+2026-02-05 15:01:39 rm ~/dotfiles/.config/nvim/syntax/
+2026-02-05 15:01:03 ls ~/dotfiles/.config/nvim/syntax
+2026-02-05 15:00:18 cd nvim
+2026-02-05 15:00:14 cd ~/.config/
+2026-02-05 14:59:47 ls ~/.config/
+2026-02-05 14:58:13 git commit -m "updates"
+2026-02-02 04:37:25 df -h
+2026-02-01 21:36:58 sudo rsync -aAXHv --delete --exclude={".cache/","Downloads/","tmp/","Dropbox/"} /home/ /media/backup/home/
+2026-02-01 21:36:44 sudo rsync -aAXHv --delete /etc/ /media/backup/etc/
+2026-02-01 06:05:57 ls /media/backup/etc/
+2026-02-01 06:04:46 sudo mkdir /media/backup/etc/
+2026-02-01 06:03:24 ncdu /etc/
+2026-02-01 06:03:07 df -h /etc/
+2026-02-01 06:02:34 cd /etc/
+2026-02-01 05:56:36 sudo mkdir /media/backup/home/
+2026-02-01 05:56:21 sudo rm -rf /media/backup/home/
+2026-02-01 05:56:04 sudo rm /media/backup/home/
+2026-02-01 05:53:31 sudo rsync -aAXHv --delete --exclude={".cache/","Downloads/","tmp/","Dropbox/"} /home/mat/ /media/backup/home/
+2026-02-01 05:49:13 sudo rsync -aAXHv --delete --exclude={".cache/","Downloads/","tmp/"} /home/mat/ /media/backup/home/
+2026-02-01 05:48:19 ls /media/backup
+2026-02-01 05:47:50 rsync -n -aAXHv --delete --exclude={".cache/","Downloads/","tmp/"} /home/mat/ /media/backup/home/
+2026-02-01 05:44:56 sudo mkdir /media/backup
+2026-02-01 04:55:41 systemctl --failed
+2026-02-01 04:55:02 sudo systemctl status
+2026-02-01 04:54:53 sudo systemctl status ufw
+2026-02-01 04:54:32 sudo ufw status verbose
+2026-02-01 04:54:22 sudo ufw status
+2026-02-01 04:53:42 sudo pacman -S ufw
+2026-01-31 23:53:11 yay -Scc
+2026-01-31 23:50:35 paru
+2026-01-31 23:49:16 paccache -r
+2026-01-31 17:02:06 yt-dlp https://motherless.com/G8836393/820DE42
+2026-01-31 16:55:21 yt-dlp "https://motherless.com/G8836393/5F6095E"
+2026-01-31 16:50:45 yt-dlp "https://motherless.com/G8836393/C9B8024"
+2026-01-31 16:40:54 yt-dlp "https://motherless.com/0A1846A"
+2026-01-31 16:40:46 cd Downloads/tt
+2026-01-31 16:34:13 yt-dlp --list-impersonate-targets
+2026-01-31 16:30:53 yt-dlp -help | less
+2026-01-31 16:30:37 yt-dlp -help
+2026-01-31 16:28:23 yt-dlp --cookies-from-browser chromium "https://www.tiktok.com/@miaoliveira38/video/7260169554540743941"
+2026-01-31 16:27:53 cd tt
+2026-01-31 16:27:52 mkdir tt
+2026-01-31 16:24:10 paru -Rns 4kvideodownloaderplus
+2026-01-31 16:23:40 paru -Rns 4ktokkit
+2026-01-31 16:23:17 tldr paru
+2026-01-31 16:15:09 yay -S youwee-bin
+2026-01-31 16:12:47 yay -S 4ktokkit
+2026-01-31 16:12:09 paru 4ktokkit
+2026-01-31 16:08:58 yay -S 4kvideodownloaderplus
+2026-01-31 16:08:43 yay -S 4k-tokkit-bin
+2026-01-31 16:08:37 yay -S 4k-tokkit
+2026-01-31 16:08:21 cd .pkg-source
+2026-01-31 16:06:09 tldr bun
+2026-01-31 16:04:31 paru youwee-bin
+2026-01-31 15:59:40 paru 4k-tokkit
+2026-01-31 15:59:29 paru 4k-tokkit-bin
+2026-01-31 15:49:28 sudo pacman -S pycroptodomex secretstorage
+2026-01-31 15:48:34 tldr curl-impersonate
+2026-01-31 15:48:05 sudo pacman -S curl-impersonate
+2026-01-31 15:47:01 sudo pacman -S curl_cffi
+2026-01-31 15:45:51 sudo pacman -S yt-dlp-ejs
+2026-01-31 15:43:13 yt-dlp "https://www.tiktok.com/@miaoliveira38/video/7260169554540743941?is_from_webapp=1&sender_device=pc&web_id=7601484858938033694"
+2026-01-31 15:41:49 yt-dlp "https://www.tiktok.com/@miaoliveira38/video/7260169554540743941"
+2026-01-31 15:38:43 tldr yt-dlp
+2026-01-31 05:09:18 cat /etc/sddm.conf
+2026-01-30 22:09:25 tldr kate
+2026-01-30 22:07:43 pacman -Qe
+2026-01-30 22:07:37 tldr bluez
+2026-01-30 22:06:45 tldr btop
+2026-01-30 22:05:19 sudo pacman -Rns telegram-desktop
+2026-01-30 22:04:46 pacman -Qtdq
+2026-01-30 16:57:15 tldr dd
+2026-01-30 16:56:48 sudo pacman -S tldr
+2026-01-30 03:27:22 sudo pacman -Rns (pacman -Qtdq)
+2026-01-30 03:25:22 less /usr/share/cachyos-fish-config/cachyos-config.fish
+2026-01-30 03:24:58 cat config.fish
+2026-01-30 03:24:35 nvim config.fish
+2026-01-30 03:24:27 ls config.fish
+2026-01-30 03:24:13 cat fish_variables
+2026-01-30 03:24:03 cd .config/fish/
+2026-01-30 03:23:54 ls .config/fish/
+2026-01-30 03:23:49 ls .config/fis
+2026-01-30 03:23:31 you
+2026-01-30 03:22:47 nvim .bashrc
+2026-01-30 03:22:16 less .config/alacritty/alacritty.toml
+2026-01-30 03:22:02 ls .config/alacritty/
+2026-01-30 03:21:12 ls .cache
+2026-01-30 03:21:02 ls go/pkg/mod/
+2026-01-30 03:20:58 ls go/pkg/
+2026-01-30 03:20:52 ls go
+2026-01-30 03:20:44 rm -rf LinGa/
+2026-01-30 03:20:12 ls LinGa
+2026-01-30 03:19:59 ls .pkg-source
+2026-01-30 03:18:55 less /usr/share/cachyos-zsh-config/cachyos-config.zsh
+2026-01-30 03:18:19 less .zshrc
+2026-01-30 03:17:33 sudo pacman -S nautilus
+2026-01-30 03:13:00 sudo pacman -S thunar-volman thunar-media-tags-plugin thunar-archive-plugin gvfs
+2026-01-30 03:10:48 sudo pacman -S tumbler
+2026-01-30 03:09:57 sudo pacman -S ffmpegthumbnailer
+2026-01-30 02:59:18 sudo pacman -S thunar
+2026-01-30 02:36:09 qt6ct
+2026-01-30 02:35:01 cat .viminfo
+2026-01-30 02:34:44 cat .lesshst
+2026-01-30 02:34:22 cat .bash_logout
+2026-01-30 02:34:13 nvim .bash_profile
+2026-01-30 02:33:52 nvim .zshrc
+2026-01-30 02:27:38 cat .bash_profile
+2026-01-30 02:26:49 cat .bashrc
+2026-01-30 02:21:42 ls /etc/environment
+2026-01-30 02:19:53 sudo pacman -S kvantum
+2026-01-30 02:19:22 sudo pacman -S qt6ct
+2026-01-29 16:11:12 niri msg --json windows
+2026-01-29 15:59:19 cat config.kdl
+2026-01-29 15:55:15 ls .pki/nssdb/
+2026-01-29 15:55:07 ls .pki
+2026-01-29 15:55:00 less .pki
+2026-01-29 15:53:08 cat /usr/share/cachyos-zsh-config/cachyos-config.zsh | less
+2026-01-29 15:41:36 qdbus | less
+2026-01-29 15:41:32 qdbus
+2026-01-29 15:41:28 qdbus org.kde.KWin /KWin reconfigure
+2026-01-29 15:40:58 sudo pacman -S qt5-tools
+2026-01-27 22:36:20 cd /media/linga
+2026-01-27 22:27:02 cd..
+2026-01-27 22:27:01 cde ..
+2026-01-27 22:26:44 cd media
+2026-01-27 22:26:40 ls media/
+2026-01-27 22:26:29 sudo mkdir -p /media/{linga,storage}
+2026-01-27 22:22:20 ls mnt/Games
+2026-01-27 22:22:11 ls mnt/
+2026-01-27 22:21:55 cd /
+2026-01-27 19:20:26 sudo cp cachyos-desktop-linux-260124.iso /dev/sdc
+2026-01-27 19:20:15 cp cachyos-desktop-linux-260124.iso /dev/sdc
+2026-01-27 19:19:27 sudo mkfs.vfat -F 32 -n "CACHYISO" /dev/sdc1
+2026-01-27 18:46:05 yay -Syu
+2026-01-27 18:20:34 ls Documents
+2026-01-27 18:06:26 ncdu
+2026-01-27 18:06:13 sudo pacman -S ncdu
+2026-01-27 18:04:28 ls /dev | grep media
+2026-01-27 18:04:19 ls /dev
+2026-01-27 17:54:47 cat cachyos-config.zsh
+2026-01-27 17:54:35 cd /usr/share/cachyos-zsh-config
+2026-01-27 17:31:34 mkdir LinGa
+2026-01-27 17:27:58 nvim fstab
+2026-01-27 17:27:46 cat fstab
+2026-01-27 02:46:06 sudo mkfs.ext4 /dev/nvme1n1p1
+2026-01-27 02:38:13 sudo fdisk /dev/nvme1n1
+2026-01-27 02:36:35 sudo fdisk /dev/nvme1
+2026-01-27 02:36:04 cd dev
+2026-01-26 21:00:57 nvidia-smi
+2026-01-26 20:48:43 lspci -v | grep nouveau
+2026-01-26 20:47:54 lspci -v | grep nvidia
+2026-01-26 20:47:13 lspci -v
+2026-01-26 20:46:23 lspci
+2026-01-25 19:48:32 sudo cp cachyos-desktop-linux-260124.iso /dev/disk/by-id/usb-_USB_DISK_3.0_071C53C7C5A30201-0:0
+2026-01-25 19:48:18 cp cachyos-desktop-linux-260124.iso /dev/disk/by-id/usb-_USB_DISK_3.0_071C53C7C5A30201-0:0
+2026-01-25 19:46:35 ls -l /dev/disk/by-id/usb-*
+2026-01-25 19:46:23 ls -l /dev/desk/by-id/usb-*
+2026-01-25 19:44:33 sudo gparted
+2026-01-25 19:44:23 sudo pacman -S gparted
+2026-01-25 19:43:26 sudo mkfs.vfat -F 32 -n "CachyISO" /dev/sdc1
+2026-01-25 19:32:00 udisksctl unmount --block-device /dev/sdc1
+2026-01-25 19:30:42 umount /dev/sdc
+2026-01-25 19:30:03 findmnt /dev/sdc1
+2026-01-25 19:29:31 umount /dev/sdc1
+2026-01-25 19:25:08 ls sdc1/
+2026-01-25 19:25:00 ls sdc1
+2026-01-25 19:24:52 ls | grep sdc
+2026-01-25 19:20:31 dd --help
+2026-01-25 18:58:06 sudo restart now
+2026-01-23 12:28:58 sudo pacman -S telegram-desktop
+2026-01-23 03:08:59 less /var/log/pacman.log
+2026-01-23 03:07:21 less pc-aur-pkgs.txt
+2026-01-23 03:07:16 pacman -Qm > pc-aur-pkgs.txt
+2026-01-23 03:04:51 less pc-official-pkgs.txt
+2026-01-23 03:04:43 pacman -Qqen > pc-official-pkgs.txt
+2026-01-23 03:00:35 less pc-pkgs.txt
+2026-01-23 03:00:28 pacman -Qe > pc-pkgs.txt
+2026-01-23 02:59:59 cd Documents
+2026-01-22 16:26:44 nvim /usr/bin/limine-snapper-sync
+2026-01-22 16:26:07 ls /usr/bin/ | grep "limine"
+2026-01-22 16:24:00 df -h /boot
+2026-01-22 16:23:30 ls /etc/bin | grep "limine"
+2026-01-22 16:23:22 ls /etc/bin/ | grep "limine"
+2026-01-22 16:22:31 grep limine
+2026-01-22 16:22:23 cd /usr/bin
+2026-01-22 16:18:43 sudo parted -l
+2026-01-22 16:11:30 nvim limine-snapper-sync.conf
+2026-01-22 16:11:16 less limine-snapper-sync.conf
+2026-01-22 16:10:47 cd /etc
+2026-01-21 23:13:00 sudo pacman -S vlc-plugins-all
+2026-01-21 23:12:19 sudo pacman -S vlc
+2026-01-18 12:34:34 yay -S dropbox
+2026-01-18 11:21:08 yay -S balena-etcher
+2026-01-18 11:20:58 cd .pkg-source/
+2026-01-17 19:45:19 ls projects
+2026-01-17 19:44:57 ls dotfiles/scripts/
+2026-01-17 19:44:52 ls dotfiles
+2026-01-17 19:44:00 ls Public
+2026-01-17 19:43:49 ls Pictures
+2026-01-17 19:43:45 ls Music
+2026-01-17 19:42:39 rm dead.letter
+2026-01-17 19:42:12 less dead.letter
+2026-01-17 19:41:39 ls Desktop
+2026-01-17 19:41:14 ls Vaults/
+2026-01-17 19:40:51 cd Templates
+2026-01-17 19:39:54 yay -S ticktick
+2026-01-17 19:39:28 lsd
+2026-01-14 15:53:46 systemctl --user restart xppentablet.service
+2026-01-14 15:53:30 systemctl --user enable xppentablet.service
+2026-01-14 15:51:46 yay -S xp-pen-tablet
+2026-01-14 15:49:33 ld
+2026-01-14 15:49:15 
+❯
+❯
+2026-01-14 15:39:24 sudo pacman -S plasma-meta kde-applications-meta cachyos-kde-settings
+2026-01-14 15:30:51 sudo pacman -S plasma-wayland-session
+2026-01-05 21:20:45 sudo pacman -S krita
+2026-01-05 21:14:34 ls .dotnet
+2026-01-05 21:14:19 ls .nuget
+2026-01-05 21:14:09 ls Videos
+2026-01-05 21:11:06 less readme.md
+2026-01-05 21:10:42 ls .pkg-source/
+2026-01-05 21:10:00 sudo pacman -S xp-pen-tablet
+2026-01-04 02:30:49 cd dotfiles/.config/niri
+2026-01-04 02:28:29 less niri
+2026-01-04 02:28:11 cd niri/
+2026-01-04 02:28:01 cd dotfiles/.config/
+2026-01-04 02:27:29 cwd
+2026-01-04 02:19:03 sudo pacman -S chromium
+2025-12-09 22:53:33 sudo shutdown -r
+2025-11-14 22:43:03 wal -i ~/wallpapers/dream-2.png
+2025-11-14 22:42:00 nvim hyprland.conf
+2025-11-14 22:41:54 ls hyprland
+2025-11-14 22:41:45 cd dotfiles/.config/hypr
+2025-11-14 22:41:33 swaybg -i ~/wallpapers/dream-2.png & disown
+2025-11-14 19:30:33 cd theme-scripts/
+2025-11-14 19:22:13 nvim cwd
+2025-11-14 19:21:53 cd bin
+2025-11-14 19:19:20 cd omarchy
+2025-11-14 19:17:09 cat current/background-readme.md
+2025-11-14 19:16:49 ls current
+2025-11-14 19:16:36 cd .confi
+2025-11-12 08:39:21 git commit -m "niri config files"
+2025-11-12 08:38:56 dotfiles/
+2025-11-12 08:18:09 niri msg --json windows | less
+2025-11-12 07:46:16 nvim ~/.config/hypr/
+2025-11-12 07:45:10 sudo pacman -S libreoffice-fresh
+2025-11-12 07:21:16 nvim io.conf
+2025-11-12 07:21:14 cd hyprland
+2025-11-12 07:21:09 cd .config/hypr
+2025-11-11 23:46:18 nvim bindings.conf
+2025-11-11 23:46:14 cd hyprland/
+2025-11-11 23:37:24 ls quickshell
+2025-11-11 23:25:22 qs -c noctalia-shell
+2025-11-11 23:22:00 sudo pacman -S quickshell
+2025-11-11 23:21:41 sudo pacman -S ddcutil cliphist
+2025-11-11 23:21:02 sudo pacman -S cava wlsunset xdg-desktop-portal python3 evolution-data-server polkit-kde-agent
+2025-11-11 23:19:49 sudo pacman -S ttf-roboto inter-font gpu-screen-recorder
+2025-11-11 23:17:14 yay -S noctalia-shell
+2025-11-11 23:15:34 cd .config/
+2025-11-11 23:12:48 sudo pacman -S matugen
+2025-11-11 23:09:36 qs -c  noctalia-shell
+2025-11-11 23:08:21 pkill waybar
+2025-11-11 22:48:56 qs -c ~/.config/quickshell/noctalia-shell/
+2025-11-11 22:46:40 yay -S quickshell-git
+2025-11-11 22:43:13 touch shell.qml
+2025-11-11 22:41:26 qs
+2025-11-11 22:30:10 nvim settings.json
+2025-11-11 22:30:00 cd .config/quickshell/noctalia-shell/
+2025-11-11 22:26:54 mkdir noctalia-shell/
+2025-11-11 22:26:47 cd .config/quickshell/
+2025-11-11 22:25:38 swaybg -i ~/wallpapers/dream-1.png & disown
+2025-11-11 22:19:27 walker
+2025-11-11 22:19:10 wofi -n
+2025-11-11 22:18:03 cd hyprlaand
+2025-11-11 22:17:07 pacman -Qe | lesss
+2025-11-11 22:16:13 cd hyprland.conf
+2025-11-11 22:16:07 ls hyprland/
+2025-11-11 22:16:00 cd hypr
+2025-11-11 22:05:34 noctalia
+2025-11-11 22:04:48 noctalia-shell
+2025-11-11 22:03:51 cd quickshell/
+2025-11-11 22:03:46 cd ~/.config
+2025-11-11 22:03:37 ln -s ~/dotfiles/.config/quickshell/ ~/.config/
+2025-11-11 22:02:47 mkdir quickshell/
+2025-11-11 22:02:43 cd dotfiles/.config
+2025-11-11 22:01:06 ls sublime-text/
+2025-11-11 22:00:58 ls yay
+2025-11-11 22:00:51 ls mpv
+2025-11-11 22:00:47 ls micro
+2025-11-11 22:00:37 ls menus
+2025-11-11 21:59:33 rm -rf niri.bak/
+2025-11-11 21:59:20 ls matplotlib
+2025-11-11 21:49:32 cd Pictures
+2025-11-11 21:11:47 cd /niri
+2025-11-11 21:08:43 mv ~/.config/niri{,.bak}/ && ln -s ~/dotfiles/.config/niri/ ~/.config/
+2025-11-11 21:08:02 ln --help | less
+2025-11-11 21:01:00 niri msg outputs | less
+2025-11-11 21:00:56 niri msg outputs
+2025-11-11 20:53:43 cp -r niri/ ~/dotfiles/.config/
+2025-11-11 20:50:25 yay -S niri noctalia-shell
+2025-11-11 20:49:51 sudo pacman -Sy alacritty fuzzel swaybg ttf-jetbrains-mono-nerd xwayland-satellite
+2025-11-11 19:40:08 elephant
+2025-11-11 19:39:31 yay -S walker-bin
+2025-11-11 19:32:56 yay -S elephant-files elephant-desktopapplications elephant-runner elephant-todo elephant-websearch
+2025-11-11 19:29:03 yay -S elephant-calc
+2025-11-11 19:28:08 yay -S elephant-archlinuxpkgs
+2025-11-11 19:23:19 git pull origin master
+2025-11-11 19:20:29 yay -S elephant
+2025-11-11 19:18:28 projects/
+2025-11-11 19:03:17 sudo pacman -S elephant
+2025-11-11 18:59:08 swaybg -i ~/wallpapers/dream-1.png -m fill & disown
+2025-11-11 18:56:53 dotfiles/.config/hypr/
+2025-11-11 18:47:04 rm -rf walker/
+2025-11-11 18:45:41 rm .gitignore
+2025-11-11 18:45:24 rm -rf {.git,.github}
+2025-11-11 18:45:05 rm .git .github
+2025-11-11 18:44:42 sudo pacman -S GTK4 gtk4-layer-shell cairo poppler-glib elephant
+2025-11-11 18:37:59 cat makefile | less
+2025-11-11 18:37:45 cat LICENSE | less
+2025-11-11 18:37:29 cat Cargo.toml
+2025-11-11 18:37:12 cd walker
+2025-11-11 18:37:07 git clone https://github.com/abenz1267/walker.git
+2025-11-11 18:33:19 mkdir .pkg-source
+2025-11-11 18:32:39 cat dead.letter
+2025-11-11 18:30:27 sudo pacman -Qe | less
+2025-11-11 18:30:13 sudo pacman -Qm | less
+2025-11-11 18:30:10 sudo pacman -Qm | list
+2025-11-11 18:30:02 sudo pacman -Qm | grep "walker"
+2025-11-11 17:34:27 cd projects/text-edit/
+2025-11-11 13:37:09 nvim start-es-slayer.md
+2025-11-11 13:36:55 cd Documents/poe
+2025-11-09 09:59:29 git push main origin
+2025-11-09 09:59:25 git commit -m "save"
+2025-11-08 21:42:35 ./test
+2025-11-08 21:42:31 gcc multiarrayfuncq.c -o test
+2025-11-08 21:35:52 projects/text-edit/
+2025-11-08 21:35:27 rm -rf dotfiles-bak/
+2025-11-08 21:34:03 nimv
+2025-11-08 21:19:14 sudo pacman -S npm
+2025-11-08 21:02:47 gcc arrayfunq2.c -o test
+2025-11-08 21:02:37 gcc arrahfunq2.c -o test
+2025-11-08 20:42:11 gcc arrayfunq.c -o test
+2025-11-08 20:28:06 gcc test.c -o test
+2025-11-08 20:22:12 git push origin m
+2025-11-08 20:21:23 git commit
+2025-11-08 17:07:50 fastfetch
+2025-11-08 15:50:04 nvim looknfeel.conf
+2025-11-08 15:49:02 wal -i ~/wallpapers/dream-1.png
+2025-11-08 15:48:26 swaybg -i ~/wallpapers/dream-1.jpg -m fill & disown
+2025-11-08 15:47:27 swaybg -i ~/wallpapers/poe-5.jpg -m fill & disown
+2025-11-08 15:44:34 wal -i ~/wallpapers/poe-7.jpg
+2025-11-08 15:44:19 swaybg -i ~/wallpapers/poe-7.jpg -m fill & disown
+2025-11-08 15:43:58 swaybg -i ~/poe-7.jpg -m fill & disown
+2025-11-08 15:04:08 cat colors.sh | less
+2025-11-08 15:03:31 ls schemes
+2025-11-08 15:03:07 cat colors-hyprland
+2025-11-08 15:02:59 cat colors
+2025-11-08 15:02:32 cd .cache/wal
+2025-11-08 14:57:18 cat looknfeel.conf
+2025-11-08 14:57:05 cat io.conf
+2025-11-08 14:55:13 nvim hypridle.conf
+2025-11-08 14:55:01 ls hyprland.conf
+2025-11-08 14:54:27 ls apps
+2025-11-08 14:54:02 ls background
+2025-11-08 14:53:42 dotfiles/.config/hypr
+2025-11-08 03:39:15 nvim test.c
+2025-11-08 03:38:48 nvim main.c
+2025-11-08 02:39:47 wal -i ~/wallpapers/bg-1.jpg
+2025-11-07 18:30:39 git commit -m "file-save"
+2025-11-07 18:27:23 wal -i ~/wallpapers/euro-night.jpg
+2025-11-07 18:27:08 swaybg -i ~/wallpapers/euro-night.jpg -m fill & disown
+2025-11-07 18:13:10 gcc main.c -o test
+2025-11-07 18:08:46 cd ~/projects/text-edit/
+2025-11-07 17:36:53 .config/hypr/
+2025-11-07 17:36:43 cd my-omarchy/
+2025-11-07 17:36:04 .test
+2025-11-07 13:48:54 git merge -m "file-save"
+2025-11-07 13:32:31 rm test
+2025-11-07 13:32:23 test
+2025-11-07 13:32:05 rm a.out
+2025-11-07 13:31:07 gcc main.c
+2025-11-07 13:30:28 nvim a.out
+2025-11-07 13:30:23 a.out
+2025-11-07 13:29:53 gcc o test
+2025-11-07 13:29:27 gcc --help
+2025-11-07 13:29:25 gcc -h
+2025-11-07 13:29:09 cat a.out
+2025-11-07 13:26:13 cat main.c
+2025-11-07 09:03:51 man 3 printf
+2025-11-07 09:03:35 man man
+2025-11-07 09:03:28 man 3
+2025-11-07 09:03:14 man 3 printf | less
+2025-11-07 08:56:51 sudo pacman -S gcc
+2025-11-07 08:47:27 git commit -m "FIRST: main.c creation"
+2025-11-07 08:46:50 touch main.c
+2025-11-07 08:46:47 cd text-edit/
+2025-11-07 08:44:26 ca
+2025-11-07 08:44:14 git clone https://github.com/yomatta/bootdev.git
+2025-11-07 07:14:45 dysk -h
+2025-11-07 07:14:18 dysk -help
+2025-11-07 07:14:03 sudo pacman -S dysk
+2025-11-07 07:02:55 git clone https://github.com/yomatta/text-edit.git
+2025-11-07 07:01:38 gh browse --help
+2025-11-07 07:01:29 gh browse
+2025-11-06 10:12:39 hyprctl dispatch exit
+2025-11-06 10:11:52 hyprctl reload
+2025-11-05 22:02:35 nvim config
+2025-11-05 22:02:28 cd ghostty
+2025-11-05 22:02:06 git clone https://github.com/basecamp/omarchy.git
+2025-11-05 21:57:39 wal -i ~/wallpapers/poe-3.jpg
+2025-11-05 21:54:18 sudo pacman -Syy
+2025-11-05 21:37:00 .config/ghostty/
+2025-11-04 21:36:14 ghostty background = #ffffff
+2025-11-04 21:35:53 background = #ffffff
+2025-11-04 21:30:09 ghostty +show-config --default --docs | less
+2025-11-04 21:28:30 ghostty +list-fonts | less
+2025-11-04 21:27:50 .config/ghostty
+2025-11-04 21:19:33 cd .config/ghostty
+2025-11-04 21:00:46 fonttools | less
+2025-11-04 21:00:32 fonttools
+2025-11-04 20:59:20 sudo pacman -S ttf-hack-nerd
+2025-11-04 20:52:33 ghostty +show-config --default --docs
+2025-11-04 20:46:42 cat config
+2025-11-04 20:46:34 ls ghostty
+2025-11-04 20:46:28 ls gh
+2025-11-04 20:46:18 ls autostart/
+2025-11-04 20:45:21 cd fish
+2025-11-04 20:44:14 ls nvim
+2025-11-04 20:43:50 .config/
+2025-11-04 20:42:15 sudo pacman -S ghostty
+2025-11-04 20:31:45 cd syntax
+2025-11-04 20:20:11 ls Pictures/
+2025-11-04 20:20:01 du -sh Videos/
+2025-11-04 20:19:52 du sh Videos/
+2025-11-03 21:28:41 less fish_variables
+2025-11-03 21:25:46 cd .config/fish
+2025-11-03 21:24:49 less config.fish
+2025-11-03 20:55:56 echo $SHELL
+2025-11-03 20:52:00 which sh
+2025-11-03 20:49:58 nvim /usr/share/cachyos-zsh-config/cachyos-config.zsh
+2025-11-03 20:48:52 ls .zshrc
+2025-11-03 20:06:09 du -sh ~
+2025-11-03 20:05:26 sudo du -sh /
+2025-11-03 19:59:15 sudo pacman -S lazygit
+2025-11-03 19:58:52 sudo pacman -S mmdc
+2025-11-03 19:58:36 sudo pacman -S tectonic
+2025-11-03 19:58:31 sudo pacman -S tectonic pdflatex
+2025-11-03 19:57:58 sudo pacman -S luarocks
+2025-11-03 19:56:59 sudo pacman -S tree-sitter-cli
+2025-11-03 19:56:13 sudo pacman -S tree-sitter
+2025-11-03 19:56:06 sudo pacman -s tree-sitter
+2025-11-03 19:52:36 nvim init.lua
+2025-11-03 19:49:29 rm -rf ~/.config/nvim/.git
+2025-11-03 19:49:03 ls syntax
+2025-11-03 19:48:39 git clone https://github.com/LazyVim/starter ~/.config/nvim
+2025-11-03 19:47:59 mkdir nvim
+2025-11-03 19:47:12 ls .nv
+2025-11-03 19:46:28 mv ~/.config/nvim{,.bak}
+2025-11-03 19:41:38 git branch
+2025-11-03 19:41:20 git commit -m "updates/changes"
+2025-11-03 16:59:17 nvim srs-poison-start.md
+2025-11-02 04:49:43 swaybg -i ~/wallpapers/poe-3.jpg -m fill & disown
+2025-11-01 04:24:49 cd screenshots
+2025-10-30 20:25:17 cd poe
+2025-10-30 12:24:38 wal -i ~/wallpapers/poe-5.jpg
+2025-10-30 12:24:12 wal -i ~/wallpapers/poe-4.jpg
+2025-10-30 12:23:59 swaybg -i ~/wallpapers/poe-4.jpg -m fill & disown
+2025-10-30 01:56:52 yt https://www.tiktok.com/@scarlette2009/video/7565222483624725790?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:56:42 yt https://www.tiktok.com/@scarlette2009/video/7565220249021189407?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:56:33 yt https://www.tiktok.com/@scarlette2009/video/7565219205272866079?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:56:24 yt https://www.tiktok.com/@scarlette2009/video/7565218651599621407?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:56:16 yt https://www.tiktok.com/@scarlette2009/video/7565217954221149471?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:56:08 yt https://www.tiktok.com/@scarlette2009/video/7565217051220987166?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:52 yt https://www.tiktok.com/@scarlette2009/video/7563687269907942687?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:44 yt https://www.tiktok.com/@scarlette2009/video/7563685703293406494?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:35 yt https://www.tiktok.com/@scarlette2009/video/7563684995617918238?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:25 yt https://www.tiktok.com/@scarlette2009/video/7563682946033405214?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:14 yt https://www.tiktok.com/@scarlette2009/video/7563682091842555166?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:55:05 yt https://www.tiktok.com/@scarlette2009/video/7563681289610464542?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:53 yt https://www.tiktok.com/@scarlette2009/video/7563680507435699486?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:45 yt https://www.tiktok.com/@scarlette2009/video/7562570315579002142?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:36 yt https://www.tiktok.com/@scarlette2009/video/7562569998166723870?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:26 yt https://www.tiktok.com/@scarlette2009/video/7562568231219662111?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:18 yt https://www.tiktok.com/@scarlette2009/video/7562567662539132191?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:54:04 yt https://www.tiktok.com/@scarlette2009/video/7562565481882717470?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:53:57 yt https://www.tiktok.com/@scarlette2009/video/7562564818457201950?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:53:46 yt https://www.tiktok.com/@scarlette2009/video/7561173512195460383?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:53:27 yt https://www.tiktok.com/@scarlette2009/video/7560885353586937118?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:52:56 yt https://www.tiktok.com/@scarlette2009/video/7559963674941590814?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:52:48 yt https://www.tiktok.com/@scarlette2009/video/7559959147974790430?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:52:34 yt https://www.tiktok.com/@scarlette2009/video/7555892469116718367?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:52:21 yt https://www.tiktok.com/@scarlette2009/video/7555891781133421855?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:52:03 yt https://www.tiktok.com/@scarlette2009/video/7552899552550997279?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:51:54 yt https://www.tiktok.com/@scarlette2009/video/7552895549628763423?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:51:38 yt https://www.tiktok.com/@scarlette2009/video/7552379245368986910?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:51:29 yt https://www.tiktok.com/@scarlette2009/video/7552379106730593567?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:51:13 yt https://www.tiktok.com/@scarlette2009/video/7549554820684746015?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:50:58 yt https://www.tiktok.com/@scarlette2009/video/7548792749718375711?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:50:48 yt https://www.tiktok.com/@scarlette2009/video/7548216669949283614?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:50:26 yt https://www.tiktok.com/@scarlette2009/video/7547193062506728734?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:50:16 yt https://www.tiktok.com/@scarlette2009/video/7546012426722921759?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:50:05 yt https://www.tiktok.com/@scarlette2009/video/7544023324729298206?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:49:49 yt https://www.tiktok.com/@scarlette2009/video/7543010048524438815?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:49:39 yt https://www.tiktok.com/@scarlette2009/video/7543008649963212063?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:49:21 yt https://www.tiktok.com/@scarlette2009/video/7525349145289182494?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:49:13 yt https://www.tiktok.com/@scarlette2009/video/7525348482282982687?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:49:06 yt https://www.tiktok.com/@scarlette2009/video/7524915994460998943?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:48:57 yt https://www.tiktok.com/@scarlette2009/video/7524914041630870815?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:48:49 yt https://www.tiktok.com/@scarlette2009/video/7524799942762810655?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:48:40 yt https://www.tiktok.com/@scarlette2009/video/7524445807421050143?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:48:32 yt https://www.tiktok.com/@scarlette2009/video/7521370921005796639?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:47:51 yt https://www.tiktok.com/@scarlette2009/video/7518415158314650910?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:47:41 yt https://www.tiktok.com/@scarlette2009/video/7517381452317707550?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:47:30 yt https://www.tiktok.com/@scarlette2009/video/7516922526690233631?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:47:23 yt https://www.tiktok.com/@scarlette2009/video/7516922157369232670?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:47:16 yt https://www.tiktok.com/@scarlette2009/video/7516921893463608606?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:48 yt https://www.tiktok.com/@scarlette2009/video/7514366105998101790?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:39 yt https://www.tiktok.com/@scarlette2009/video/7514359846586584350?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:30 yt https://www.tiktok.com/@scarlette2009/video/7514357856674581791?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:21 yt https://www.tiktok.com/@scarlette2009/video/7514356520868531487?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:14 yt https://www.tiktok.com/@scarlette2009/video/7514355636411419935?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:46:04 yt https://www.tiktok.com/@scarlette2009/video/7513081612083465502?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:45:54 yt https://www.tiktok.com/@scarlette2009/video/7513062767302151454?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:45:16 yt https://www.tiktok.com/@scarlette2009/video/7506230966176746782?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:45:04 yt https://www.tiktok.com/@scarlette2009/video/7506224866635418911?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:44:32 yt https://www.tiktok.com/@scarlette2009/video/7495126070035746078?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:44:24 yt https://www.tiktok.com/@scarlette2009/video/7495101104036924703?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:44:00 yt https://www.tiktok.com/@scarlette2009/video/7486248751846231326?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:43:51 cd scarlette2009
+2025-10-30 01:43:47 mkdir scarlette2009
+2025-10-30 01:40:25 yt https://www.tiktok.com/@bunni.gl0w/video/7566781022549937463?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:40:15 yt https://www.tiktok.com/@bunni.gl0w/video/7565917523644910879?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:40:06 yt https://www.tiktok.com/@bunni.gl0w/video/7565538179281931551?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:57 yt https://www.tiktok.com/@bunni.gl0w/video/7565150063723351326?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:49 yt https://www.tiktok.com/@bunni.gl0w/video/7564439119565311263?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:37 yt https://www.tiktok.com/@bunni.gl0w/video/7564184370479631647?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:30 yt https://www.tiktok.com/@bunni.gl0w/video/7563835378604477726?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:22 yt https://www.tiktok.com/@bunni.gl0w/video/7563626265115217182?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:15 yt https://www.tiktok.com/@bunni.gl0w/video/7563368212113542431?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:39:05 yt https://www.tiktok.com/@bunni.gl0w/video/7562908805701405983?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:38:53 cd bunni.gl0w
+2025-10-30 01:38:49 mkdir bunni.gl0w
+2025-10-30 01:37:56 yt https://www.tiktok.com/@he_luvs_honeyy/video/7556442123462003976?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:37:35 yt https://www.tiktok.com/@he_luvs_honeyy/video/7563602333020491024?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:37:27 yt https://www.tiktok.com/@he_luvs_honeyy/video/7563571831064562945?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:37:17 yt https://www.tiktok.com/@he_luvs_honeyy/video/7563566215428361489?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:37:08 yt https://www.tiktok.com/@he_luvs_honeyy/video/7563245436803239185?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:36:57 yt https://www.tiktok.com/@he_luvs_honeyy/photo/7563155360110955793?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:36:42 yt https://www.tiktok.com/@he_luvs_honeyy/video/7562516313176886545?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:36:18 yt https://www.tiktok.com/@he_luvs_honeyy/video/7562493986024262929?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:36:03 yt https://www.tiktok.com/@he_luvs_honeyy/video/7560191111138905345?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:56 yt https://www.tiktok.com/@he_luvs_honeyy/video/7559950434283146497?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:48 yt https://www.tiktok.com/@he_luvs_honeyy/video/7559016051682462992?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:38 yt https://www.tiktok.com/@he_luvs_honeyy/video/7558363964053212417?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:29 yt https://www.tiktok.com/@he_luvs_honeyy/video/7558361713976872209?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:20 yt https://www.tiktok.com/@he_luvs_honeyy/video/7558359983931329809?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:35:11 yt https://www.tiktok.com/@he_luvs_honeyy/video/7557964946533813505?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:59 yt https://www.tiktok.com/@he_luvs_honeyy/video/7557963990127611137?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:49 yt https://www.tiktok.com/@he_luvs_honeyy/video/7556445065573338386?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:37 yt https://www.tiktok.com/@he_luvs_honeyy/video/7556088767098932488?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:28 yt https://www.tiktok.com/@he_luvs_honeyy/video/7556068903525469458?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:15 yt https://www.tiktok.com/@he_luvs_honeyy/video/7554265059489402130?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:34:06 yt https://www.tiktok.com/@he_luvs_honeyy/video/7553982307028258055?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:33:51 yt https://www.tiktok.com/@he_luvs_honeyy/video/7550468631180659986?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:33:30 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549845576808942855?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:33:18 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549416080599469330?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:33:10 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549113133529304338?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:33:01 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549074042070895880?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:32:51 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549071274383904008?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:32:41 yt https://www.tiktok.com/@he_luvs_honeyy/video/7549042046405741842?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:32:33 yt https://www.tiktok.com/@he_luvs_honeyy/video/7548270972558773512?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:32:21 yt https://www.tiktok.com/@he_luvs_honeyy/video/7548270378460761351?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:32:07 yt https://www.tiktok.com/@he_luvs_honeyy/video/7547536179609013512?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:31:38 yt https://www.tiktok.com/@he_luvs_honeyy/video/7542146756977397000?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:31:18 yt https://www.tiktok.com/@he_luvs_honeyy/video/7542143539090738450?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:31:11 cd he_luvs_honeyy/
+2025-10-30 01:31:03 mkdir he_luvs_honeyy
+2025-10-30 01:30:23 yt https://www.tiktok.com/@ooeee16/video/7566872716498816287?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:30:12 yt https://www.tiktok.com/@ooeee16/video/7566781079357525279?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:30:02 yt https://www.tiktok.com/@ooeee16/video/7566442260590644511?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:51 yt https://www.tiktok.com/@ooeee16/video/7566092783052705054?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:40 yt https://www.tiktok.com/@ooeee16/video/7565646063256800543?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:32 yt https://www.tiktok.com/@ooeee16/video/7565403989768965406?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:23 yt https://www.tiktok.com/@ooeee16/video/7565397066663398687?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:11 yt https://www.tiktok.com/@ooeee16/video/7564622048840994078?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:29:01 yt https://www.tiktok.com/@ooeee16/video/7563084430181453087?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:50 yt https://www.tiktok.com/@ooeee16/video/7562658280724499742?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:41 yt https://www.tiktok.com/@ooeee16/video/7562369857455541534?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:32 yt https://www.tiktok.com/@ooeee16/video/7561605413100178718?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:21 yt https://www.tiktok.com/@ooeee16/video/7560558688168103199?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:13 yt https://www.tiktok.com/@ooeee16/video/7560545055358913822?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:28:03 yt https://www.tiktok.com/@ooeee16/video/7560421381033266463?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:27:55 yt https://www.tiktok.com/@ooeee16/video/7560148344119643423?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:27:46 yt https://www.tiktok.com/@ooeee16/video/7560106184817036575?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:27:18 yt https://www.tiktok.com/@ooeee16/video/7560032169213676831?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:27:10 yt https://www.tiktok.com/@ooeee16/video/7559822020406480158?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:27:01 yt https://www.tiktok.com/@ooeee16/video/7559429928484113694?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:26:53 yt https://www.tiktok.com/@ooeee16/video/7559037527986949406?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:26:37 yt https://www.tiktok.com/@ooeee16/video/7558636633482874142?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:26:25 yt https://www.tiktok.com/@ooeee16/video/7558314273634536734?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:26:04 yt https://www.tiktok.com/@ooeee16/video/7557942891390307615?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:25:51 yt https://www.tiktok.com/@ooeee16/video/7557179915909532959?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:25:18 yt https://www.tiktok.com/@ooeee16/video/7556466505249066270?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:24:54 yt https://www.tiktok.com/@ooeee16/video/7555244667604864287?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:24:43 yt https://www.tiktok.com/@ooeee16/video/7554911522586250526?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:24:35 yt https://www.tiktok.com/@ooeee16/video/7554909820688534815?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:24:20 yt https://www.tiktok.com/@ooeee16/video/7554539127199386910?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:24:04 yt https://www.tiktok.com/@ooeee16/video/7554187378647239966?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:23:59 cd Downloads/tt/ooeee16/
+2025-10-30 01:23:29 alias yt='yt-dlp'
+2025-10-30 01:22:57 yt https://www.tiktok.com/@ooeee16/video/7554183531287579934?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:19:49 yt-dlp https://www.tiktok.com/@ooeee16/video/7552621058587757855?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:19:00 yt-dlp https://www.tiktok.com/@ooeee16/video/7551202916883877150?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:18:34 yt-dlp https://www.tiktok.com/@ooeee16/video/7549754830902840606?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:18:22 cd ooeee16/
+2025-10-30 01:18:18 mv new/ ooeee16/
+2025-10-30 01:18:10 mv -r new/ ooeee16/
+2025-10-30 01:16:08 yt-dlp https://www.tiktok.com/@ooeee16/video/7547143456242552094?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:15:47 yt-dlp -f https://www.tiktok.com/@ooeee16/video/7547143456242552094?is_from_webapp=1&sender_device=pc&web_id=7566893131581818381
+2025-10-30 01:14:33 yt-dlp --help
+2025-10-30 01:13:39 sudo pacman -S yt-dlp
+2025-10-30 01:09:20 nvim transparency.conf
+2025-10-30 01:08:43 hyprctl clients | less
+2025-10-30 01:08:33 cd apps
+2025-10-30 01:07:11 rm -rf omarchy-gh/
+2025-10-30 01:05:04 git commit -m "bringing hypr conf back to temp normal"
+2025-10-30 01:00:40 imv wallpapers/pywallpaper.jpg
+2025-10-30 01:00:27 ls wallpapers
+2025-10-30 00:54:05 wal -i ~/wallpapers/poe-9.jpeg
+2025-10-30 00:53:55 swaybg -i ~/wallpapers/poe-9.jpeg -m fill & disown
+2025-10-29 16:02:59 nvim wine.conf
+2025-10-29 16:01:48 cd .config/hypr/apps
+2025-10-29 15:56:46 ls kate
+2025-10-29 15:56:24 ls | less
+2025-10-29 15:56:13 cd autostart
+2025-10-29 15:52:01 ls ~/.config/hypr/apps
+2025-10-29 15:51:57 ls ~/.config/hypr
+2025-10-29 15:51:52 ls ~/.config/hyprland
+2025-10-29 15:49:58 gh reference
+2025-10-29 15:48:22 gh | less
+2025-10-29 15:48:10 gh
+2025-10-29 15:45:08 git log
+2025-10-29 15:44:21 ls readme.md
+2025-10-29 15:43:54 cp -r dotfiles/ dotfiles-bak/
+2025-10-29 15:42:51 git merge initial
+2025-10-29 15:41:05 git switch main
+2025-10-29 15:39:31 git switch initial
+2025-10-29 15:35:45 git switch -c main
+2025-10-29 15:35:40 git switch
+2025-10-29 15:34:38 git branch --help
+2025-10-29 15:34:15 git branch create main
+2025-10-29 15:34:06 git branch switch -c main
+2025-10-29 15:33:58 git --help
+2025-10-29 15:33:35 git branch -m main initial
+2025-10-29 15:23:08 gh pull
+2025-10-29 15:22:48 git pull main
+2025-10-29 15:21:49 gh pr create
+2025-10-29 15:21:31 gh pr status
+2025-10-29 15:21:29 gh pr statujs
+2025-10-29 15:21:22 gh pr list
+2025-10-29 15:19:25 git config set --global pull.rebase true
+2025-10-29 15:16:11 git pull
+2025-10-29 15:16:06 git branch -m initial main
+2025-10-29 15:13:04 gh repo
+2025-10-29 15:12:10 git push origin initial
+2025-10-29 15:10:52 gh --help
+2025-10-29 15:10:08 gh repo set-default yomatta/dotfiles
+2025-10-29 15:09:49 gh repo list
+2025-10-29 15:05:44 gh repo view
+2025-10-29 15:05:35 gh pr checks
+2025-10-29 15:03:40 git pull remote main
+2025-10-29 15:02:41 git commit -m "initial commit"
+2025-10-29 15:02:23 git config --global user.name "yomatta"
+2025-10-29 15:02:04 git config --global user.email "matt.ahlschlager@gmail.com"
+2025-10-29 15:00:45 git add wallpapers/
+2025-10-29 15:00:40 git add themes/
+2025-10-29 15:00:35 git add scripts/
+2025-10-29 15:00:18 git add .config/
+2025-10-29 14:59:39 cat scripts/mimetypes.sh
+2025-10-29 14:59:21 ls scripts
+2025-10-29 14:59:18 ls themes
+2025-10-29 14:56:41 git ls-remote
+2025-10-29 14:56:31 git remote add origin https://github.com/yomatta/dotfiles.git
+2025-10-29 14:54:35 gh auth refresh
+2025-10-29 14:54:21 gh auth setup-git
+2025-10-29 14:53:53 gh auth --help
+2025-10-29 14:52:26 gh auth login
+2025-10-29 14:51:24 git branch -m master main
+2025-10-29 14:49:38 gh auth
+2025-10-29 14:43:52 git help -a
+2025-10-29 14:40:48 git ls-remote | less
+2025-10-29 14:40:34 git switch master
+2025-10-29 14:33:44 git log --oneline
+2025-10-29 14:33:07 git log --decorate=full
+2025-10-29 14:31:16 git switch opacity_override
+2025-10-29 14:30:59 git branch opacity_override
+2025-10-29 14:25:12 git log --graph
+2025-10-29 14:25:07 git log --graph docs
+2025-10-29 14:21:22 cd omarchy-gh/
+2025-10-29 14:21:19 mkdir omarchy-gh
+2025-10-29 14:20:55 mkdir projects
+2025-10-29 14:13:39 less system.conf
+2025-10-29 14:12:50 cat *.conf | grep 'you'
+2025-10-29 14:12:38 grep *.conf 'you'
+2025-10-29 14:12:30 grep *.conf "you"
+2025-10-29 14:11:12 cat *.conf | less
+2025-10-29 14:10:28 cat *.conf | fzf
+2025-10-29 14:09:46 less transparency.conf
+2025-10-28 23:24:45 wal -i ~/wallpapers/dream-4.png
+2025-10-28 23:24:25 swaybg -i ~/wallpapers/dream-4.png -m fill & disown
+2025-10-28 23:16:50 help
+2025-10-28 23:11:39 swaybg -i ~/wallpapers/cp77-5.jpg -m fill & disown
+2025-10-28 23:00:22 nvim testxt
+2025-10-28 22:52:17 systemctl --user status
+2025-10-28 22:49:30 sudo pacman -S xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-kde wireplumber pipewire
+2025-10-28 22:43:51 sudo pacman -S xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-kde wireplumber
+2025-10-28 13:30:33 sudo pacman -S obs-studio
+2025-10-28 13:28:02 sudo pacman -S v4l2loopback
+2025-10-28 13:27:21 sudo pacman -S qt6-wayland
+2025-10-28 13:27:06 sudo pacman -S xdg-desktop-portal-gtk
+2025-10-28 13:22:14 wal -i ~/wallpapers/cp77-5.jpg
+2025-10-28 13:20:30 wal -i ~/wallpapers/poe-6.jpeg
+2025-10-28 13:20:18 swaybg -i ~/wallpapers/poe-6.jpeg -m fill & disown
+2025-10-28 13:20:10 swaybg -i ~/wallpapers/poe-6 -m fill & disown
+2025-10-27 03:42:02 nvim dotfiles/.config/hypr/hyprland.conf
+2025-10-27 03:29:58 swaybg -i ~/wallpapers/walls/dream-1.png -m fill & disown
+2025-10-27 00:07:58 XDG_MENU_PREFIX=arch- kbuildsycoca6
+2025-10-27 00:04:12 cat arch-applications.menu | less
+2025-10-27 00:03:00 sudo ln -fs /etc/xdg/menus/arch-applications.menu ~/.config/menus/applications.menu
+2025-10-27 00:02:37 ls /etc/xdg/menus
+2025-10-27 00:01:27 ln --help
+2025-10-27 00:01:02 cd ~/.config/menus
+2025-10-26 23:59:47 sudo ln -s /etc/xdg/menus/arch-applications.menu /etc/xdg/menus/applications.menu
+2025-10-26 23:59:36 ln -s /etc/xdg/menus/arch-applications.menu /etc/xdg/menus/applications.menu
+2025-10-26 23:58:17 cd /etc/xdg/menus
+2025-10-26 23:58:09 sudo update-desktop-database
+2025-10-26 23:57:58 sudo pacman -Sy archlinux-xdg-menu
+2025-10-26 23:57:33 kbuildsycoca6 --noincremental
+2025-10-26 23:56:04 XDG_MENU_PREFIX = arch- kbuildsycoca6
+2025-10-26 23:55:18 sudo pacman -S archlinux-xdg-menu
+2025-10-26 23:54:24 xdg-mime default mpv.desktop application/ogg
+2025-10-26 23:54:12 xdg-mime default mpv.desktop video/x-theora+ogg
+2025-10-26 23:54:06 xdg-mime default mpv.desktop video/x-ogm+ogg
+2025-10-26 23:54:01 xdg-mime default mpv.desktop video/x-ms-asf
+2025-10-26 23:53:51 xdg-mime default mpv.desktop video/3gpp2
+2025-10-26 23:53:50 xdg-mime default mpv.desktop video/3gpp
+2025-10-26 23:53:43 xdg-mime default mpv.desktop video/quicktime
+2025-10-26 23:53:40 xdg-mime default mpv.desktop video/webm
+2025-10-26 23:53:37 xdg-mime default mpv.desktop video/ogg
+2025-10-26 23:53:35 xdg-mime default mpv.desktop video/mpeg
+2025-10-26 23:53:30 xdg-mime default mpv.desktop video/x-ms-wmv
+2025-10-26 23:53:24 xdg-mime default mpv.desktop video/x-flv
+2025-10-26 23:53:19 xdg-mime default mpv.desktop video/x-matroska
+2025-10-26 23:53:10 xdg-mime default mpv.desktop video/x-msvideo
+2025-10-26 23:53:06 xdg-mime default mpv.desktop video/mp4
+2025-10-26 23:50:20 less mimeapps.list
+2025-10-26 23:50:09 xdg-mime default imv.desktop image/jpg
+2025-10-26 23:50:06 xdg-mime default imv.desktop image/tiff
+2025-10-26 23:50:02 xdg-mime default imv.desktop image/bmp
+2025-10-26 23:50:00 xdg-mime default imv.desktop image/webp
+2025-10-26 23:49:58 xdg-mime default imv.desktop image/gif
+2025-10-26 23:49:54 xdg-mime default imv.desktop image/jpeg
+2025-10-26 23:49:44 xdg-mime default imv.desktop image/png
+2025-10-26 23:36:57 nvim mimeapps.list
+2025-10-26 23:34:44 xdg-mime default /usr/share/applications/imv.desktop image/jpg
+2025-10-26 23:32:33 jls
+2025-10-26 23:30:26 update-desktop-database /.local/share/applications
+2025-10-26 23:29:47 update-desktop-database /usr/share/applications
+2025-10-26 23:29:26 update-desktop-database ~/usr/share/applications
+2025-10-26 23:28:21 eza -G | grep -E '*.desktop' | less
+2025-10-26 23:28:07 eza -G | grep -E '*.desktop'
+2025-10-26 23:27:58 eza -G | grep -E *.desktop
+2025-10-26 23:26:06 eza -G | grep '*.desktop'
+2025-10-26 23:25:54 eza -G | grep *.desktop
+2025-10-26 23:25:27 eza -G
+2025-10-26 23:25:17 cat nvim.desktop | less
+2025-10-26 23:25:11 cat nvim.desktop
+2025-10-26 23:24:16 ls -G
+2025-10-26 23:24:00 eza --help | less
+2025-10-26 23:23:38 eza --help
+2025-10-26 23:23:28 ls -t
+2025-10-26 23:23:27 ls -x
+2025-10-26 23:23:24 ls -a
+2025-10-26 23:23:22 ls -g
+2025-10-26 23:23:08 cd /usr/share/applications
+2025-10-26 23:20:51 ls hicolor
+2025-10-26 23:20:47 cd .local/share/icons
+2025-10-26 23:17:39 ls ~/.local/share/applications
+2025-10-26 23:16:23 nvim mimetypes.sh
+2025-10-26 23:15:17 ln -s ~/dotfiles/wallpapers/ ~/
+2025-10-26 23:14:40 mv wallpapers/ dotfiles/
+2025-10-26 23:14:09 rmdir walls
+2025-10-26 23:14:03 cd walls
+2025-10-26 23:13:54 mv walls/*.* .
+2025-10-26 23:13:22 rm *.jpg
+2025-10-26 23:12:29 ls walls
+2025-10-26 23:12:24 cd wallpapers/
+2025-10-26 23:11:42 sudo pacman -S imv
+2025-10-26 23:06:54 ls ~/.local/share/applications/wine/Programs
+2025-10-26 23:06:49 ls ~/.local/share/applications/wine
+2025-10-26 23:06:27 ls ~/.local/share/applications/
+2025-10-26 23:06:21 ls ~/.local/share
+2025-10-26 23:06:18 ls ~/.local
+2025-10-26 22:37:47 less browser.conf
+2025-10-26 22:37:27 cd dotfiles/.config/hypr/apps
+2025-10-26 22:36:07 nvim transparency.cong
+2025-10-26 16:29:07 nvim browser.conf
+2025-10-26 16:07:54 pypr edit
+2025-10-26 16:07:33 pypr show
+2025-10-26 16:07:08 pypr --help
+2025-10-26 16:04:29 less .bash_profile
+2025-10-26 16:04:20 less .bash_logout
+2025-10-26 15:36:45 nvim system.conf
+2025-10-26 15:28:31 cat system.conf
+2025-10-26 15:28:18 cat localsend.conf
+2025-10-26 15:28:09 cat hyprshot.conf
+2025-10-26 15:27:55 nvim webcam-overlay.conf
+2025-10-26 15:27:37 nvim qemu.conf
+2025-10-26 15:27:31 less qemu.conf
+2025-10-26 15:26:48 nvim pip.conf
+2025-10-26 15:23:13 less pip.conf
+2025-10-26 15:22:23 nvim steam.conf
+2025-10-26 15:06:15 hyprctl clients
+2025-10-26 14:40:50 nvim bitwarden.conf
+2025-10-26 14:40:16 nvim 1password.conf
+2025-10-26 14:38:40 nvim retroarch.conf
+2025-10-26 14:37:25 nvim localsend.conf
+2025-10-26 14:37:09 sudo pacman -S fzf
+2025-10-26 14:31:49 nvim walker.conf
+2025-10-26 14:30:53 nvim terminals.conf
+2025-10-26 14:13:18 nvim hyprshot.conf
+2025-10-26 14:05:32 mkdir apps
+2025-10-26 14:02:01 less hyprlock.conf
+2025-10-26 13:04:38 swaybg -i ~/wallpapers/walls/cp77-9.png -m fill & disown
+2025-10-26 02:55:31 wal -i ~/wallpapers/walls/cp77-9.png
+2025-10-25 21:56:46 h
+2025-10-25 21:41:32 ls assets
+2025-10-25 21:41:24 cd dotfiles/.config/waybar
+2025-10-25 20:29:49 nvim style.css
+2025-10-25 20:25:57 nvim config.jsonc
+2025-10-25 20:25:49 cp config.jsonc config-bak.jsonc
+2025-10-25 20:25:41 cp config.jsconc config-bak.jsonc
+2025-10-25 20:25:30 cp config.jscon config-bak.jsonc
+2025-10-25 20:25:19 rm -rf config-bak.jsonc
+2025-10-25 20:00:21 unpack --help
+2025-10-25 18:16:09 nvim 326-practice-semi-strict.filter
+2025-10-25 18:15:55 mv '3.26 HC Practice_2_Semi-Strict.filter' 326-practice-semi-strict.filter
+2025-10-25 18:15:20 mv '3.26 HC Practice_2_Semi-strict.filter' 326-practice-semi-strict.filter
+2025-10-25 18:14:44 mv ./'3.26 HC Practice_Semi-strict.filter' ./326-practice-semi-strict.filter
+2025-10-25 18:14:04 mv '3.26 HC Practice_Semi-strict.filter' 326-practice-semi-strict.filter
+2025-10-25 18:12:18 unzip '3.26 HC Practice.zip'
+2025-10-25 17:52:18 mkdir -p ~/dotfiles/.config/nvim/syntax
+2025-10-25 17:51:40 ls ~/dotfiles/.config
+2025-10-25 17:51:36 ls ~/dotfiles
+2025-10-25 17:51:07 ls ~/.config/nvim
+2025-10-25 17:49:32 touch poe.vim
+2025-10-25 17:44:49 nvim test.filter
+2025-10-25 17:44:38 cd ~/Documents/poe/lootfilter/
+2025-10-25 17:44:28 mkdir -p ~/Documents/poe/lootfilter
+2025-10-25 17:42:06 ls Documents/'Path of Building'/
+2025-10-25 17:41:48 rmdir Wine
+2025-10-25 17:41:42 ls .wine/.exe-downloads/
+2025-10-25 17:41:31 ls Wine
+2025-10-25 17:41:28 mv ~/Wine/.exe-downloads/ ~/.wine/
+2025-10-25 17:41:13 mv -r ~/Wine/.exe-downloads/ ~/.wine/
+2025-10-25 15:05:24 swaybg -i ~/wallpapers/walls/dragon-1.jpg -m fill & disown
+2025-10-25 15:05:14 swaybg -i ~/wallpapers/walls/dragon-1.png -m fill & disown
+2025-10-25 15:04:53 wal -i ~/wallpapers/walls/dragon-1.jpg
+2025-10-25 14:39:11 less --help
+2025-10-25 14:39:05 less -r colors-waybar.css
+2025-10-25 14:37:34 less colors-waybar.css
+2025-10-25 14:36:45 kill
+2025-10-25 14:34:05 swaybg -i ~/wallpapers/walls/cp77-10.png -m fill & disown
+2025-10-25 14:33:14 wal -i ~/wallpapers/walls/cp77-10.png
+2025-10-25 14:31:59 less colors-hyprland
+2025-10-25 14:31:25 cd ~/.cache/wal/
+2025-10-25 14:30:38 cd waybar
+2025-10-25 14:28:15 swaybg -i ~/wallpapers/walls/cp77-5.jpg -m fill & disown
+2025-10-25 14:27:59 swaybg -i ~/wallpapers/walls/cp77-5.jpg -m fit & disown
+2025-10-25 14:26:43 wal -i ~/wallpapers/walls/cp77-5.jpg
+2025-10-25 14:26:35 wal -i ~/wallpapers/walls/cp77-5.png
+2025-10-25 14:26:08 wal -i ~/.config/hypr/background/bg-1.jpg
+2025-10-25 14:25:34 wal -i ~/wallpapers/walls/cp77-8.png
+2025-10-25 14:11:40 less hyprland2.conf
+2025-10-25 14:10:04 less ~/.cache/wal/colors
+2025-10-25 14:09:49 ls ~/.cache/wal/colors
+2025-10-25 14:09:38 ls ~/.cache/wal
+2025-10-25 14:03:18 wal
+2025-10-25 14:01:54 wal --theme
+2025-10-25 14:01:17 wal -h
+2025-10-25 13:55:19 nvim -r hyprland.conf
+2025-10-25 13:54:40 nvim hypr
+2025-10-25 13:54:05 nvim ~/dotfiles/.config/hypr/hyprland.conf
+2025-10-25 13:51:34 less Pinta/settings.xml
+2025-10-25 13:51:15 less Pinta/palette.txt
+2025-10-25 13:51:05 ls Pinta
+2025-10-25 13:50:28 less mpv/mpv.conf
+2025-10-25 13:45:58 swaybg -i ~/wallpapers/walls/cp77-8.png -m solid_color & disown
+2025-10-25 13:45:48 swaybg -h
+2025-10-25 13:45:36 swaybg -i ~/wallpapers/walls/cp77-8.png -m solidcolor & disown
+2025-10-25 13:45:22 swaybg -i ~/wallpapers/walls/cp77-8.png -m fit & disown
+2025-10-25 13:45:09 swaybg -i ~/wallpapers/walls/cp77-8.png -m center & disown
+2025-10-25 13:42:07 swaybg -i ~/wallpapers/walls/poe-9.jpeg -m fill & disown
+2025-10-25 13:41:57 swaybg -i ~/wallpapers/walls/poe-9.jpeg -m stretch & disown
+2025-10-25 13:41:41 swaybg -i ~/wallpapers/walls/poe-9.jpeg -m fit & disown
+2025-10-25 13:41:05 swaybg -i ~/wallpapers/walls/poe-8.jpg -m stretch & disown
+2025-10-25 13:40:55 swaybg -i ~/wallpapers/walls/poe-8.jpg -m center stretch & disown
+2025-10-25 13:40:07 swaybg -i ~/wallpapers/walls/poe-8.jpg -m fit & disown
+2025-10-25 13:39:43 swaybg -i ~/wallpapers/walls/poe-8.jpg -m center & disown
+2025-10-25 13:39:29 swaybg -i ~/wallpapers/walls/poe-8.jpg -m fill & disown
+2025-10-25 13:39:20 swaybg -i ~/wallpapers/walls/poe-7.jpg -m fill & disown
+2025-10-25 13:38:23 swaybg -i ~/wallpapers/walls/poe-6.jpeg -m fill & disown
+2025-10-25 13:38:11 swaybg -i ~/wallpapers/walls/poe-5.jpg -m fill & disown
+2025-10-25 13:38:02 swaybg -i ~/wallpapers/walls/poe-4.jpg -m fill & disown
+2025-10-25 13:37:47 swaybg -i ~/wallpapers/walls/poe-3.jpg -m fill & disown
+2025-10-25 13:37:42 swaybg -i ~/wallpapers/walls/poe-2.jpg -m fill & disown
+2025-10-25 13:37:35 swaybg -i ~/wallpapers/walls/poe-1.jpg -m fill & disown
+2025-10-25 13:37:10 swaybg -i ~/wallpapers/walls/cp77-4.jpg -m fill & disown
+2025-10-25 13:37:03 swaybg -i ~/wallpapers/walls/cp77-3.jpg -m fill & disown
+2025-10-25 13:36:51 swaybg -i ~/wallpapers/walls/cp77-3.png -m fill & disown
+2025-10-25 13:36:08 swaybg -i ~/wallpapers/walls/cp77-2.png -m fill & disown
+2025-10-25 13:35:48 swaybg -i ~/wallpapers/walls/cp77-1.png -m fill & disown
+2025-10-25 13:35:32 swaybg -i ~/wallpapers/walls/cp77-1.jpg -m fill & disown
+2025-10-24 20:10:55 yay -Rns path-of-building-community-git
+2025-10-24 20:08:12 wine PathOfBuildingCommunity-Setup.exe
+2025-10-24 20:08:05 cd .exe-downloads/
+2025-10-24 20:08:02 mv PathOfBuildingCommunity-Setup.exe .exe-downloads/
+2025-10-24 20:07:46 mkdir .exe-downloads
+2025-10-24 20:06:49 cd Wine
+2025-10-24 20:03:09 PathOfBuildingCommunity -h
+2025-10-24 20:02:59 PathOfBuildingCommunity -- nosocket=wayland
+2025-10-24 20:02:48 PathOfBuildingCommunity --nosocket=wayland
+2025-10-24 20:02:31 PathOfBuildingCommunity
+2025-10-24 20:00:53 makepkg -s -r --install
+2025-10-24 20:00:24 makepkg --help | less
+2025-10-24 20:00:20 makepkg --help
+2025-10-24 19:58:38 cd path-of-building-community-git/
+2025-10-24 19:58:31 cd ~/.cache/yay/
+2025-10-24 19:56:17 nvim Launch.lua
+2025-10-24 19:56:05 cd src
+2025-10-24 19:56:01 cd /opt/PathOfBuildingCommunity/
+2025-10-24 19:53:39 nvim Main.lua
+2025-10-24 19:53:33 cd Modules
+2025-10-24 19:52:29 less Launch.lua
+2025-10-24 19:51:52 ls /opt/PathOfBuildingCommunity/
+2025-10-24 19:49:55 env -u WAYLAND_DISPLAY PathOfBuildingCommunity
+2025-10-24 19:48:30 PathOfBuildingCommunity --help
+2025-10-24 19:47:24 less Calcs.lua
+2025-10-24 19:47:03 less Main.lua
+2025-10-24 19:46:55 less main.lua
+2025-10-24 19:46:47 less ItemTools.lua
+2025-10-24 19:46:26 less Build.lua
+2025-10-24 19:46:23 less Build
+2025-10-24 19:46:18 cd src/Modules/
+2025-10-24 19:46:08 ls src/Modules/
+2025-10-24 19:45:54 less src/changelog.txt
+2025-10-24 19:45:36 ls src
+2025-10-24 19:45:29 ls spec
+2025-10-24 19:45:22 ls runtime
+2025-10-24 19:45:04 less docs/modSyntax.md
+2025-10-24 19:44:41 less docs/rundown.md
+2025-10-24 19:44:25 ls docs
+2025-10-24 19:44:07 less manifest.cfg
+2025-10-24 19:44:02 less manifest.
+2025-10-24 19:43:10 less help.txt
+2025-10-24 19:43:05 cat help.txt
+2025-10-24 19:42:58 cat .editorconfig
+2025-10-24 19:42:50 cat .busted
+2025-10-24 19:42:29 cat RELEASE.md | less
+2025-10-24 19:42:04 cat README.md | less
+2025-10-24 19:40:19 cat docker-compose.yml
+2025-10-24 19:39:48 cat Dockerfile
+2025-10-24 19:39:03 cat PathOfBuildingCommunity
+2025-10-24 19:38:58 cat P
+2025-10-24 19:38:43 cd usr
+2025-10-24 19:38:33 ls /usr/bin/PathOfBuildingCommunity
+2025-10-24 19:38:17 ls usr/bin/PathOfBuildingCommunity
+2025-10-24 19:37:41 sudo ls /usr/bin | less
+2025-10-24 19:37:23 ls usr/bin | less
+2025-10-24 19:37:17 ls usr/bin
+2025-10-24 19:32:13 yay -S path-of-building-community-git
+2025-10-24 18:17:46 yay -S awakened-poe-trade
+2025-10-24 18:12:49 sudo visudo
+2025-10-24 18:12:30 chmod +x poe_tcp_logout.sh
+2025-10-24 18:09:56 nvim poe_tcp_logout.sh
+2025-10-24 18:09:38 mkdir scripts
+2025-10-24 18:08:57 sudo pacman -S iproute2
+2025-10-24 18:02:07 yay -S awakened-poe-trade-bin
+2025-10-24 12:57:10 sudo du -sh /var/cache
+2025-10-24 12:56:58 du -sh /var/cache
+2025-10-24 12:56:45 ls /var/cache
+2025-10-24 12:56:40 ls /var
+2025-10-24 12:56:27 ls /run
+2025-10-24 12:56:20 ls /proc
+2025-10-24 12:56:17 ls /root
+2025-10-24 12:56:08 ls /opt
+2025-10-24 12:55:44 ls /usr
+2025-10-24 12:55:18 du -sh
+2025-10-24 12:54:55 yay -Sc --aur
+2025-10-24 12:43:32 yay -S awakened-poe-trade-bin path-of-building-community-git
+2025-10-24 12:37:40 gnome-calculator
+2025-10-24 12:37:28 sudo pacman -S gnome-calculator
+2025-10-24 00:05:20 nvim mplayer-input.conf
+2025-10-24 00:04:22 nvim input.conf
+2025-10-24 00:01:54 nvim mpv.conf
+2025-10-24 00:01:41 cp -r /usr/share/doc/mpv/ ~/.config/
+2025-10-24 00:00:04 cd mpv
+2025-10-23 23:59:53 cd /.config
+2025-10-23 23:43:33 ls /mnt/Games
+2025-10-23 23:43:26 sudo mount UUID="B2B8E8FCB8E8BFC9" /mnt/Games/
+2025-10-23 23:41:25 ls /mnt
+2025-10-23 23:41:18 sudo mkdir /mnt/Games
+2025-10-23 23:28:31 sudo pacman -S cachyos-gaming-applications
+2025-10-23 23:27:30 sudo pacman -S cachyos-gaming-meta
+2025-10-23 23:22:54 sudo pacman -S cachyos-gaming-meta cachyos-gaming-applications
+2025-10-23 23:21:50 cachyos-rate-mirrors
+2025-10-23 21:19:34 sublime-text-4
+2025-10-23 21:18:48 yay -S sublime-text-4
+2025-10-23 21:18:40 sudo pacman -S sublime-text-4
+2025-10-23 21:18:29 sudo pacman -S sublime-text-3
+2025-10-23 19:57:03 cat mimeapps.list
+2025-10-23 19:41:34 yay -S pinta
+2025-10-23 19:40:39 sudo pacman -S pinta
+2025-10-23 19:39:49 sudo pacman -S mpv kdenlive
+2025-10-23 19:23:28 sudo mount UUID="cf412d9b-bf54-3d92-9791-167f42536bf0" /mnt/backup-drive/
+2025-10-23 19:21:53 sudo blkid | grep "sdc2"
+2025-10-23 19:21:43 sudo blkid | grep "sdb2"
+2025-10-23 19:21:28 sudo blkid
+2025-10-23 19:21:23 blkid
+2025-10-23 19:21:01 ls -t /dev
+2025-10-23 19:20:52 ls -x /dev
+2025-10-23 19:20:39 ls /dev/dri
+2025-10-23 19:14:36 mount --help
+2025-10-23 19:14:28 sudo mkdir /mnt/backup-drive
+2025-10-23 14:03:32 cd screenshots/
+2025-10-23 13:50:35 swaybg -i ~/wallpapers/walls/bg-1.jpg -m fill & disown
+2025-10-23 13:46:46 nvim hyprlock.conf
+2025-10-22 03:53:27 swaybg -i ~/wallpapers/walls/dreamlike.jpg -m fill & disown
+2025-10-22 03:52:28 hyprctl hyprpaper reload ,"~/wallpapers/walls/dreamlike.jpg"
+2025-10-22 03:52:01 hyprctl hyprpaper reload ,~/wallpapers/walls/dreamlike.jpg
+2025-10-22 03:49:03 swww img ~/wallpapers/walls/dreamlike.jpg --transition-type any --transition-fps 60 --transition-duration .5
+2025-10-22 03:45:29 wal -i dreamlike.jpg
+2025-10-22 03:42:23 chmod +x {colors-tty.sh,colors.sh}
+2025-10-22 03:41:41 cd ~/.cache/wal
+2025-10-22 03:41:19 cd wallpapers
+2025-10-22 03:40:38 chmod +x refresh.sh
+2025-10-22 03:40:27 cd swaync
+2025-10-22 03:40:07 chmod +x {colorpicker.sh,refresh.sh,select.sh}
+2025-10-22 03:38:13 sudo pacman -S python-pywalfox
+2025-10-22 03:38:00 sudo pacman -S pywalfox
+2025-10-22 03:37:52 pywalfox update
+2025-10-22 03:35:56 chmod +x wallpaper.sh
+2025-10-22 03:35:20 cd ~/.config/hypr
+2025-10-22 03:20:51 pypr toggle term
+2025-10-22 03:19:37 pypr toggle music
+2025-10-22 03:19:30 sudo pacman -S pulsemixer
+2025-10-22 03:18:20 pypr toggle taskbar
+2025-10-22 03:18:11 sudo pacman -S htop btop
+2025-10-22 03:10:44 mkdir screenshots
+2025-10-22 03:10:15 rmdir screenshots
+2025-10-22 03:08:17 sudo pacman -S hyprshot
+2025-10-22 03:02:30 sudo pacman -S swww
+2025-10-22 03:01:41 sudo pacman -S swww-daemon
+2025-10-22 02:58:46 nvim hyprland2.conf
+2025-10-22 02:47:31 nvim elifouts.dotfiles
+2025-10-22 02:46:33 mkdir themes
+2025-10-22 02:46:06 .s
+2025-10-22 02:41:03 wal -i bg-1.jpg
+2025-10-22 02:40:42 cd ~/wallpapers
+2025-10-22 02:40:32 cp bg-1.jpg ~/wallpapers/
+2025-10-22 02:40:24 cp bg-1.jpg ~/wallpapers/walls/
+2025-10-22 02:39:57 cd background/
+2025-10-22 02:35:58 mkdir -p ~/wallpapers/walls
+2025-10-22 02:33:48 ln -s ~/dotfiles/.config/swaync/ ~/.config/
+2025-10-22 02:33:29 ls swaync
+2025-10-22 02:32:36 mkdir swaync
+2025-10-22 02:31:58 ln -s ~/dotfiles/.config/cava/ ~/.config/
+2025-10-22 02:31:40 ln -s ~/dotfiles/.config/clock-rs/ ~/.config/
+2025-10-22 02:30:56 rm -rf wal/ && ln -s ~/dotfiles/.config/wal/ ~/.config/
+2025-10-22 02:30:25 ls wal/templates/
+2025-10-22 02:30:16 ls wal/templates
+2025-10-22 02:29:53 ls wal
+2025-10-22 02:29:35 rm -rf waybar/ && ln -s ~/dotfiles/.config/waybar/ ~/.config/
+2025-10-22 02:29:03 ls waybar
+2025-10-22 02:28:38 rm -rf hypr-bak/
+2025-10-22 02:28:07 rm -rf alacritty/ && ln -s ~/dotfiles/.config/alacritty/ ~/.config/
+2025-10-22 02:27:30 ls alacritty
+2025-10-22 02:27:09 ln -s ~/dotfiles/.config/starship.toml ~/.config/
+2025-10-22 02:25:03 mkdir -p colorschemes/dark/
+2025-10-22 02:24:52 mkdir --help
+2025-10-22 02:24:09 mkdir templates
+2025-10-22 02:24:00 mkdir colorschemes/dark
+2025-10-22 02:23:38 cd wal
+2025-10-22 02:23:36 mkdir wal
+2025-10-22 02:19:50 cat pyprland.toml
+2025-10-22 02:18:37 ln -s ~/dotfiles/.config/wofi/ ~/.config/
+2025-10-22 01:52:06 pypr & disown
+2025-10-22 01:51:36 cat hyprland.conf | less
+2025-10-22 01:51:22 ls hypr
+2025-10-22 01:49:14 rm -rf hypr && ln -s ~/dotfiles/.config/hypr/ ~/.config/
+2025-10-22 01:48:13 cp -r hypr/ hypr-bak/
+2025-10-22 01:47:04 ls ~/dotfiles/.config/hypr
+2025-10-22 01:41:56 pypr
+2025-10-22 01:41:18 sudo pacman -S hypridle hyprlock
+2025-10-22 01:39:07 yay -S pyprland
+2025-10-22 01:38:56 rm -rf install-yay
+2025-10-22 01:38:21 makepkg -si
+2025-10-22 01:38:11 cd yay-bin/
+2025-10-22 01:38:06 git clone https://aur.archlinux.org/yay-bin.git
+2025-10-22 01:37:53 cd install-yay/
+2025-10-22 01:37:50 mkdir install-yay
+2025-10-22 01:35:59 sudo pacman -S pyprland
+2025-10-22 01:32:30 cd ~/.cache
+2025-10-22 01:21:02 cd cava
+2025-10-22 01:20:59 mkdir cava
+2025-10-22 01:20:16 mkdir clock-rs
+2025-10-22 01:16:58 rm {config,style-wallpaper.css,style-waybar.css,style.css}
+2025-10-22 01:15:22 touch style.css
+2025-10-22 01:15:19 touch style-waybar.css
+2025-10-22 01:15:11 touch style-wallpaper.css
+2025-10-22 01:14:57 touch config
+2025-10-22 01:14:42 cd wofi
+2025-10-22 01:14:22 mkdir wofi
+2025-10-22 01:14:09 rmdir wofi
+2025-10-22 01:08:32 touch {config-zen.jsconc,style-zen.css}
+2025-10-22 01:08:17 cd zen
+2025-10-22 01:08:11 touch {config-line.jsconc,style-line.css}
+2025-10-22 01:07:59 cd line
+2025-10-22 01:07:36 touch {config-experimental.jsonc,style-experimental.css}
+2025-10-22 01:07:22 cd experimental
+2025-10-22 01:06:18 mv config-default config-default.jsonc
+2025-10-22 01:05:24 touch {config-default,style-default.css}
+2025-10-22 01:05:04 cd default
+2025-10-22 01:04:40 mkdir {default,experimental,line,zen}
+2025-10-22 00:59:41 touch select.sh
+2025-10-22 00:59:37 touch refresh.sh
+2025-10-22 00:59:33 touch colorpicker.sh
+2025-10-22 00:59:07 mkdir assets
+2025-10-22 00:49:28 systemctl enable bluetooth
+2025-10-22 00:49:11 sudo pacman -S blueman bluez
+2025-10-22 00:40:12 sudo pacman -S wofi
+2025-10-22 00:08:21 sudo pacman -S python-pywal
+2025-10-22 00:07:31 sudo pacman -S pywal
+2025-10-21 23:01:24 killall waybar && waybar && disown
+2025-10-21 22:03:13 sudo pacman -S kate
+2025-10-21 21:54:35 pipewire
+2025-10-21 19:37:34 sudo pacman -S hyprpicker
+2025-10-21 19:26:42 sudo pacman -S cachyos-firefox-settings
+2025-10-21 19:24:24 sudo pacman -S firefox
+2025-10-21 19:24:16 sudo pacman -Rs firefox
+2025-10-21 19:03:40 vim alacritty.toml
+2025-10-21 19:02:21 nvim alacritty.toml
+2025-10-21 19:02:17 cd .config/alacritty
+2025-10-21 19:01:43 cd ~/dotfiles/.config/alacritty
+2025-10-21 18:57:56 cat /usr/share/cachyos-fish-config/cachyos-config.fish | less
+2025-10-21 18:57:22 cat config.fish | less
+2025-10-21 18:52:32 swaybg -i ~/.config/hypr/background/bg-1.jpg -m fill && disown
+2025-10-21 18:52:12 swaybg -i ~/.config/hypr/background/bg-1.jpg
+2025-10-21 18:51:38 swaybg && disown
+2025-10-21 18:50:19 sudo pacman -S swaybg
+2025-10-21 18:49:44 mv ~/.config/hypr/bg-1.jpg ~/.config/hypr/background/
+2025-10-21 18:49:22 mkdir ~/.config/hypr/background
+2025-10-21 18:49:10 cp bg-1.jpg ~/.config/hypr
+2025-10-21 18:48:05 mv bg-1.jpg background/
+2025-10-21 18:47:45 mkdir dotfiles/.config/hypr/background
+2025-10-21 18:47:25 mv Downloads/bg-1.jpg ~/dotfiles/.config/hypr
+2025-10-21 18:41:22 waybar
+2025-10-21 18:40:36 uwsm app -- waybar
+2025-10-21 18:40:29 hyprctl uwsm app -- waybar
+2025-10-21 18:39:03 cat style.css | less
+2025-10-21 18:38:26 ln -s ~/dotfiles/.config/waybar/style.css ~/.config/waybar/style.css
+2025-10-21 18:37:49 ln -s ~/dotfiles/.config/waybar/config.jsonc ~/.config/waybar/config.jsonc
+2025-10-21 18:37:19 ln -s ~/dotfiles/.config/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
+2025-10-21 18:36:33 cd alacritty
+2025-10-21 18:36:22 mkdir ~/.config/waybar
+2025-10-21 18:36:18 mkdir ~/.config/alacritty
+2025-10-21 18:35:30 cd ~/dotfiles/.config/
+2025-10-21 18:35:23 mv {alacritty,waybar} ~/dotfiles/.config/
+2025-10-21 18:34:41 rm {alacritty.zip,waybar.zip}
+2025-10-21 18:34:27 unzip waybar.zip
+2025-10-21 18:34:24 unzip alacritty.zip
+2025-10-21 18:34:16 unpack alacritty.zip
+2025-10-21 18:31:57 ls Documents/
+2025-10-21 18:31:55 ls DO
+2025-10-21 18:26:43 sudo pacman -S waybar
+2025-10-21 18:26:13 sudo pacman -S easyeffects
+2025-10-21 18:17:20 sudo pacman -S pipewire-jack
+2025-10-21 18:17:11 sudo pacman -S pipewire
+2025-10-21 01:27:40 nvim hyprland-bak.conf
+2025-10-21 01:24:43 ln -s ~/dotfiles/.config/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
+2025-10-21 01:24:12 rm hyprland.conf
+2025-10-21 01:23:46 cp hyprland.conf hyprland-bak.conf
+2025-10-21 01:23:16 rm io.bak
+2025-10-21 01:23:01 mv hyprland.conf ~/dotfiles/.config//hypr/
+2025-10-21 01:22:37 cp laptop-hyprland.conf hyprland.conf
+2025-10-21 01:20:08 nvim laptop-hyprland.conf
+2025-10-21 00:41:52 ln -s ~/dotfiles/.config/hypr/io.conf ~/.config/hypr/io.conf
+2025-10-21 00:39:42 cp io.conf io.bak
+2025-10-21 00:39:16 mv io2.conf io.conf
+2025-10-21 00:39:06 rm -rf io.conf
+2025-10-21 00:38:43 cp io.conf io2.conf
+2025-10-21 00:37:33 cd .config/hpr
+2025-10-21 00:37:07 cat ~/.config/hypr/io.conf
+2025-10-21 00:36:44 ln -s io.conf ~/.config/hypr/
+2025-10-21 00:35:31 ln -s
+2025-10-21 00:25:46 mkdir hypr
+2025-10-21 00:25:35 mkdir .config/
+2025-10-21 00:25:25 mkdir dotfiles
+2025-10-21 00:23:02 hyprctl monitors
+2025-10-21 00:22:43 hyprctl monitor
+2025-10-21 00:19:56 sudo pacman -S github-cli git
+2025-10-21 00:18:15 sudo pacman -S dolphin
+2025-10-21 00:11:37 sudo pacman -S hyprland kitty qt5-wayland qt6-wayland polkit-kde-agent uwsm pipewire hyprpolkitagent xdg-desktop-portal-hyprland noto-fonts hyprland-qtutils slurp ttf-cascadia-mono-nerd
+2025-10-21 00:06:00 vim hypr-pkgs.txt
+2025-10-21 00:05:33 cd ~/Documents
+2025-10-20 23:59:50 sudo cat /boot/limine.conf | less
+2025-10-20 23:57:54 sudo limine-scan
+2025-10-20 23:57:24 ls /dev/disk/by-uuid/ | grep "nvme0"
+2025-10-20 23:56:37 ls /dev/disk/by-uuid/
+2025-10-20 23:55:10 sudo limine-scan --help
+2025-10-20 23:55:04 limine-scan --help
+2025-10-20 23:54:49 limine scan
+2025-10-20 23:54:39 limine --help
+2025-10-20 23:53:41 sudo cat /boot/limine.conf
+2025-10-20 23:53:27 sudo ls boot
+2025-10-20 23:53:20 ls boot
+2025-10-20 23:52:26 systemctl enable sddm.service
+2025-10-20 23:51:45 systemctl enable sddm.service --help
+2025-10-20 23:51:25 sudo pacman -S sddm
+2025-10-20 23:49:56 nvim cachyos-base-pkgs.txt
+2025-10-20 23:49:39 sudo pacman -S nvim
+2025-10-20 23:48:08 cat cachyos-base-pkgs.txt | less
+2025-10-20 23:48:00 cat cachyos-base-pkgs.txt
+2025-10-20 23:47:54 pacman -Qe > cachyos-base-pkgs.txt
+2025-10-20 23:47:07 cd Documents/
+2025-10-20 23:47:02 mkdir Documents

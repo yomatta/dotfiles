@@ -24,6 +24,8 @@
 Source: http://wiki.archlinux.org/title/Niri
 
 - `alacritty` : default terminal emulator
+- `foot` : wayland terminal; displays images better than alacritty, lightweight and wayland-specific (not used in other OS... so more lightweight?)
+- `ghostty` : alternative terminal; ligatures + displays images much better than alacritty.
 - `neovim` : TUI text editor
 - `fuzzel` : default application launcher
   - `wofi` : default app launcher I'm using on laptop
@@ -49,6 +51,7 @@ Source: http://wiki.archlinux.org/title/Niri
 - `yazi` : terminal file explorer
 - `eza` : alternative to `ls`
 - `ticktick (aur)` : to-do list. (not sure what the actual aur package name is)
+- ncdu : interactive disk usage tool (nice for showing where all your storage space is going)
 
 ### impala Setup
 
@@ -76,6 +79,8 @@ niri
 waybar
 mako
 alacritty
+foot
+ghostty
 neovim
 wofi
 yazi
@@ -93,3 +98,4 @@ fzf
 eza
 ttf-jetbrains-mono-nerd
 ttf-cascadia-mono-nerd
+ncdu

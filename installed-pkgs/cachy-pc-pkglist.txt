@@ -12,7 +12,7 @@ base
 base-devel
 bash-completion
 bind
-blueman
+bluetui
 bluez
 bluez-hid2hci
 bluez-libs
@@ -41,6 +41,7 @@ cachyos-v4-mirrorlist
 cachyos-wallpapers
 cachyos-zsh-config
 cava
+chafa
 chromium
 chwd
 cliphist
@@ -80,6 +81,7 @@ foomatic-db-gutenprint-ppds
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+foot
 fsarchiver
 fuzzel
 ghostscript
@@ -108,6 +110,7 @@ hyprlock
 hyprpicker
 hyprpolkitagent
 hyprshot
+impala
 imv
 inetutils
 intel-ucode
@@ -126,6 +129,7 @@ lib32-opencl-nvidia
 lib32-vulkan-icd-loader
 libdvdcss
 libgsf
+libguestfs
 libopenraw
 libreoffice-fresh
 libva-nvidia-driver
@@ -145,6 +149,7 @@ lsb-release
 lsscsi
 luarocks
 lvm2
+mako
 man-db
 man-pages
 matugen
@@ -156,8 +161,6 @@ mkinitcpio
 modemmanager
 mpv
 mtools
-nano
-nano-syntax-highlighting
 nautilus
 ncdu
 neovim
@@ -167,7 +170,7 @@ networkmanager-openvpn
 nfs-utils
 nilfs-utils
 niri
-noctalia-shell
+nmap
 noto-color-emoji-fontconfig
 noto-fonts
 noto-fonts-cjk
@@ -179,6 +182,7 @@ nvidia-settings
 nvidia-utils
 obs-studio
 octopi
+openbsd-netcat
 opencl-nvidia
 opendesktop-fonts
 openssh
@@ -202,6 +206,7 @@ python
 python-defusedxml
 python-packaging
 python-pywal
+qemu-full
 qt5-tools
 qt5-wayland
 qt6-wayland
@@ -231,6 +236,7 @@ thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
+tree
 tree-sitter-cli
 ttf-bitstream-vera
 ttf-cascadia-mono-nerd
@@ -248,7 +254,10 @@ upower
 usb_modeswitch
 usbutils
 uwsm
+vde2
 vim
+virt-manager
+virt-viewer
 vlc
 vlc-plugins-all
 vulkan-icd-loader
@@ -256,8 +265,8 @@ waybar
 wget
 which
 wireless-regdb
+wiremix
 wireplumber
-wlsunset
 wofi
 wpa_supplicant
 xdg-desktop-portal-gtk
@@ -275,4 +284,5 @@ xorg-xkill
 xorg-xrandr
 xwayland-satellite
 yay-bin
+yazi
 yt-dlp
