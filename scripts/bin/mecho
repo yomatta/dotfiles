@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# test script
+
+echo $SHELL "mechotest"

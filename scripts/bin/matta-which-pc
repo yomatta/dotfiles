@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# matta-which-pc
+#
+# tests to find a pc flag (desktop or laptop)
+#
+# From there, will load custom config files for window manager.
+#
+
+# Test if on laptop. (Desktop as default)
+#
+
+echo "Testing which system we're using..."
+
+if test -f ~/.config/_matta-flags/matta-laptop; then
+  echo "System: laptop."
+else
+  echo "System: desktop."
+fi
+
+##
+## It works... now what to do with it?
+##
