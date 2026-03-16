@@ -27,9 +27,7 @@
         "custom/sep",
         "cpu",
         "custom/sep",
-        "memory",
-        "custom/sep",
-        "disk"
+        "memory"
     ],
 
     // Modules configuration
