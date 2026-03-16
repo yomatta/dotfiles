@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Taken from Omarchy script. See https://github.com/basecamp/omarchy
+
+# Sets the specified image as the current background
+
+if [[ -z $1 ]]; then
+  echo "Usage: yomatta-theme-bg-set <path-to-image>" >&2
+  exit 1
+fi
+
+BACKGROUND="$1"
+CURRENT_BACKGROUND_LINK="$HOME/.config/_themes/_current/background"
+
+# Create symlink to the new background
+ln -nsf "$BACKGROUND" "$CURRENT_BACKGROUND_LINK"
+
+# Kill existing swaybg and start new one
+pkill -x swaybg
+
+# TO DO: need to write an if statement that will check for a flag to see which desktop environment / window manager we're using
+
+# Re-launch swaybg (depending on window manager being used)
+
+# Niri
+
+# Mango
+swaybg -i "$CURRENT_BACKGROUND_LINK" -m fill >/dev/null 2>&1 &
+
+#Hyprland
+#setsid uwsm-app -- swaybg -i "$CURRENT_BACKGROUND_LINK" -m fill >/dev/null 2>&1 &

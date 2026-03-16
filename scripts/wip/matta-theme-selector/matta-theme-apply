@@ -1,0 +1,22 @@
+#
+# bash script
+#
+
+
+# Apply Theme
+
+# Assumption: The "theme" is selected elsewhere, and then this script is triggered to apply the theme and its various aspects.
+
+
+# What Needs to change to apply theme?
+
+# Set the background.
+
+yomatta-theme-bg-set $image_link
+
+
+# Niri Config Update
+
+
+
+# Mango Config Update
