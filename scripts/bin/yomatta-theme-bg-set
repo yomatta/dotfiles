@@ -10,7 +10,7 @@ if [[ -z $1 ]]; then
 fi
 
 BACKGROUND="$1"
-CURRENT_BACKGROUND_LINK="$HOME/.config/_themes/_current/background"
+CURRENT_BACKGROUND_LINK="~/.config/_themes/_current/background"
 
 # Create symlink to the new background
 ln -nsf "$BACKGROUND" "$CURRENT_BACKGROUND_LINK"

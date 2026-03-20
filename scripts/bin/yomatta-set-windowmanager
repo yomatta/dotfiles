@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# yomatta-set-windowmanager
+#
+# Script used by a windwo manager during its initial launch configuration to set a flag for which window manager is being used.
+#
+
+# Store the incoming environment variable.
+
+if [[ -z $1 ]]; then
+  echo "Usage: yomatta-set-windowmanager <niri/mango>" >&2
+  exit 1
+fi
+
+MANAGER="$1"
+
+# First: clear the existing desktop environment / windowmanager flags to start with a blank canvas.
+
+rm -rf ~/.config/_flags/env/ >/dev/null 2>&1 # delete the entire folder then create again > get around it not existing in the first place.
+
+mkdir -p ~/.config/_flags/env/
+touch ~/.config/_flags/env/"$MANAGER"

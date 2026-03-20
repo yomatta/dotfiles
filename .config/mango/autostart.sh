@@ -2,6 +2,9 @@
 
 set +e
 
+# update window manager / environment flag
+yomatta-set-windowmanager mango >/dev/null 2>&1
+
 # obs (uncomment below after reviewing mangowc wiki)
 dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=kde
 
