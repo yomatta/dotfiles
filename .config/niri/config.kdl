@@ -434,13 +434,14 @@ window-rule {
     open-floating true
 }
 
-window-rule {
+/* window-rule {
     match title="Steam"
     //open-floating true
     open-on-workspace "game"
     open-fullscreen true
 
 }
+*/
 
 window-rule {
     match app-id="clipstudio"
