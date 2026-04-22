@@ -1,0 +1,142 @@
+// *********************************************************
+// ***
+// ***                   Named Workspaces
+// ***
+// *********************************************************
+
+
+workspace "game" {
+    open-on-output "DP-1"
+
+}
+
+workspace "clipstudio" {
+    open-on-output "DP-1"
+
+}
+
+workspace "rebelle" {
+    open-on-output "DP-1"
+
+}
+
+workspace "drawref" {
+    open-on-output "DP-3"
+
+}
+
+workspace "gameref" {
+    open-on-output "DP-3"
+
+}
+
+
+// *********************************************************
+// ***
+// ***                   Window Rules
+// ***
+// *********************************************************
+
+// Window rules let you adjust behavior for individual windows.
+// Find more information on the wiki:
+// https://yalter.github.io/niri/Configuration:-Window-Rules
+
+window-rule {
+    //Rounded corners
+    geometry-corner-radius 10
+    clip-to-geometry true
+
+}
+
+layer-rule {
+    match namespace="^wallpaper$"
+    place-within-backdrop true
+}
+
+// Work around WezTerm's initial configure bug
+// by setting an empty default-column-width.
+window-rule {
+    // This regular expression is intentionally made as specific as possible,
+    // since this is the default config, and we want no false positives.
+    // You can get away with just app-id="wezterm" if you want.
+    match app-id=r#"^org\.wezfurlong\.wezterm$"#
+    default-column-width {}
+}
+
+window-rule {
+    match at-startup=true
+    open-on-output "DP-3"
+
+
+}
+
+window-rule {
+    match app-id="firefox"
+    //open-floating true
+    //open-on-workspace "drawref"
+    default-column-width { proportion 0.5; }
+
+    //preset-column-widths {
+    //    proportion 0.25;
+    //    proportion 0.33333;
+    //    proportion 0.5;
+    //    proportion 0.66667;
+    //    proportion 0.75;
+
+    //    // Fixed sets the width in logical pixels exactly.
+    //    // fixed 1920
+    //}
+
+}
+
+// Open the Firefox picture-in-picture player as floating by default.
+window-rule {
+    // This app-id regular expression will work for both:
+    // - host Firefox (app-id is "firefox")
+    // - Flatpak Firefox (app-id is "org.mozilla.firefox")
+    match app-id=r#"firefox$"# title="^Picture-in-Picture$"
+    open-floating true
+}
+
+/* window-rule {
+    match title="Steam"
+    //open-floating true
+    open-on-workspace "game"
+    open-fullscreen true
+
+}
+*/
+
+window-rule {
+    match app-id="clipstudio"
+    open-on-workspace "clipstudio"
+    open-floating true
+    //open-maximized true
+    open-focused true
+
+}
+
+window-rule {
+    match app-id="rebelle 8.exe"
+    open-on-workspace "rebelle"
+    open-floating true
+    open-focused true
+
+}
+
+window-rule {
+    match title="XPPentablet"
+    open-floating true
+    open-on-workspace "drawref"
+
+}
+
+window-rule {
+    match title="Selective Sync" app-id="dropbox"
+    open-floating true
+    open-focused true
+    min-width 600 
+    min-height 800
+
+}
+
