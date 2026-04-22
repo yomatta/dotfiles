@@ -1,2 +1,3 @@
-2026/01/17-19:48:15.768 4062 Creating DB /home/mat/.config/ticktick/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2026/01/17-19:48:15.783 4062 Reusing MANIFEST /home/mat/.config/ticktick/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-13:35:56.351 16d0f Reusing MANIFEST /home/mat/.config/ticktick/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-13:35:56.351 16d0f Recovering log #3
+2026/04/20-13:35:56.355 16d0f Reusing old log /home/mat/.config/ticktick/IndexedDB/file__0.indexeddb.leveldb/000003.log 

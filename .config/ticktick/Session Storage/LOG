@@ -1,2 +1,3 @@
-2026/01/17-19:47:40.406 4062 Creating DB /home/mat/.config/ticktick/Session Storage since it was missing.
-2026/01/17-19:47:40.414 4062 Reusing MANIFEST /home/mat/.config/ticktick/Session Storage/MANIFEST-000001
+2026/04/20-13:35:56.195 16cff Reusing MANIFEST /home/mat/.config/ticktick/Session Storage/MANIFEST-000001
+2026/04/20-13:35:56.196 16cff Recovering log #3
+2026/04/20-13:35:56.196 16cff Reusing old log /home/mat/.config/ticktick/Session Storage/000003.log 
