@@ -64,6 +64,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-desktop" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-as-detailed-list" "<Primary>2")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/restore-show" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/6633b96b2ea86c7f7c0b120a35e1121f" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/sendto-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-display-name" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/go-menu" "")
