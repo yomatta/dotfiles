@@ -1,0 +1,20 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=E1A5-94FE                            /boot          vfat    defaults,umask=0077 0 2
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /              btrfs   subvol=/@,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /home          btrfs   subvol=/@home,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /root          btrfs   subvol=/@root,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /srv           btrfs   subvol=/@srv,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /var/cache     btrfs   subvol=/@cache,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /var/tmp       btrfs   subvol=/@tmp,defaults,noatime,compress=zstd,commit=120 0 0
+UUID=cd08e0ab-7456-4da7-8a3f-8866ceaf6f8c /var/log       btrfs   subvol=/@log,defaults,noatime,compress=zstd,commit=120 0 0
+tmpfs                                     /tmp           tmpfs   defaults,noatime,mode=1777 0 0
+UUID=9ebced24-ed71-4ec1-a116-2d765e55603d /media/linga ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=14436b0a-c7fc-43b2-bf94-ce751a08cd8c /media/backup ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=84d78e1f-2c9c-4dab-975f-1e9744d71aa0 /media/vm ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=4AC4372BC43718A1 /media/storage ntfs defaults,nofail,x-systemd.device-timeout=5 0 0
