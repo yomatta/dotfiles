@@ -12,7 +12,7 @@
 
 echo "Testing which system we're using..."
 
-if test -f ~/.config/_matta-flags/matta-laptop; then
+if test -f ~/.config/_flags/matta-laptop; then
   echo "System: laptop."
 else
   echo "System: desktop."
