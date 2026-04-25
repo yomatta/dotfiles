@@ -12,7 +12,7 @@
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
 // -c flag: custom config file; -s flag: custom css file
-spawn-sh-at-startup "waybar -c ~/.config/niri/config-niri.jsonc -s ~/.config/niri/style-niri.css >/dev/null 2>&1 &"
+spawn-sh-at-startup "waybar -c ~/.config/niri/niri-waybar-config.jsonc -s ~/.config/niri/niri-waybar-style.css >/dev/null 2>&1 &"
 
 
 //spawn-at-startup "noctalia-shell"
