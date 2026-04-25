@@ -24,6 +24,7 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: foot" { spawn "foot"; }
     Mod+Shift+Return hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
     Mod+N hotkey-overlay-title="Open Editor: nvim" { spawn-sh "foot -e nvim"; }
+    Mod+Ctrl+Shift+N hotkey-overlay-title="Open Editor: zed" { spawn-sh "foot -e zed"; } //doesn't work
     Mod+Shift+N hotkey-overlay-title="Open Alternative Editor: Sublime" { spawn "subl"; }
     Mod+Space hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
     Mod+B hotkey-overlay-title="Open Browser: Firefox" { spawn "firefox"; }
