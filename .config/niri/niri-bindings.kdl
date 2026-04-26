@@ -18,7 +18,7 @@ binds {
     Mod+Shift+Slash { show-hotkey-overlay; }
 
     // Path of Exile
-    Grave { spawn-sh "sudo ss -K dport 6112"; }
+    //Grave { spawn-sh "sudo ss -K dport 6112"; }
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Return hotkey-overlay-title="Open a Terminal: foot" { spawn "foot"; }
