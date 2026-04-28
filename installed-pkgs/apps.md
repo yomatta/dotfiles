@@ -25,7 +25,6 @@ Source: http://wiki.archlinux.org/title/Niri
 
 - `alacritty` : default terminal emulator
 - `foot` : wayland terminal; displays images better than alacritty, lightweight and wayland-specific (not used in other OS... so more lightweight?)
-- `ghostty` : alternative terminal; ligatures + displays images much better than alacritty.
 - `neovim` : TUI text editor
 - `fuzzel` : default application launcher
   - `wofi` : default app launcher I'm using on laptop
@@ -72,20 +71,45 @@ Per Google AI:
 **Note: If you encounter issues, you can remove the configuration file from Step 2 and restart NetworkManager to revert to using `wpa_supplicant`.
 
 
-## Master Package List (post-Cachy?)
+## Master Package List (post-Cachy)
 A list of packages/apps to be installed after a base cachyOS installation.
 
+### Window Manager
 niri
+mango
+
+### Custom Bar
 waybar
+
+### Notifications
 mako
-alacritty
-foot
-ghostty
+
+### Terminal Emulator
+foot (or alacritty)
+
+### Text Editor
 neovim
-wofi
+
+### App launcher
+fuzzel
+
+### File Explorers
 yazi
 thunar
+thunar-dropbox(AUR)
+
+### Wallpaper
 swaybg
+
+### Fonts
+ttf-jetbrains-mono-nerd
+ttf-cascadia-mono-nerd
+
+### Art
+krita
+blender
+
+### Utilities / Other
 xdg-desktop-portal-kde
 xwayland-satellite
 iwd
@@ -96,6 +120,7 @@ tealdeer
 tree
 fzf
 eza
-ttf-jetbrains-mono-nerd
-ttf-cascadia-mono-nerd
 ncdu
+chromium
+dropbox(AUR)
+ticktick(AUR)

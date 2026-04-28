@@ -1,0 +1,4 @@
+UUID=9ebced24-ed71-4ec1-a116-2d765e55603d /media/linga ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=14436b0a-c7fc-43b2-bf94-ce751a08cd8c /media/backup ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=84d78e1f-2c9c-4dab-975f-1e9744d71aa0 /media/vm ext4 defaults,nofail,x-systemd.device-timeout=5 0 0
+UUID=4AC4372BC43718A1 /media/storage ntfs defaults,nofail,x-systemd.device-timeout=5 0 0
