@@ -1,14 +1,18 @@
 #!/bin/bash
 
-# yomatta-set-windowmanager
+# yomatta-set-wm
 #
-# Script used by a windwo manager during its initial launch configuration to set a flag for which window manager is being used.
+# Script used by a window manager during its initial launch configuration to set a flag for which window manager is being used.
 #
+
+# example script: find all files starting foo in a folder and delete them
+#
+# find <location> -type f -name foo\* -exec rm {} \;
 
 # Store the incoming environment variable.
 
 if [[ -z $1 ]]; then
-  echo "Usage: yomatta-set-windowmanager <niri/mango>" >&2
+  echo "Usage: yomatta-set-wm <niri/mango/hypr/kde>" >&2
   exit 1
 fi
 
