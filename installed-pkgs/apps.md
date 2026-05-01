@@ -108,6 +108,9 @@ ttf-cascadia-mono-nerd
 ### Art
 krita
 blender
+obs-studio
+kdenlive
+hyprpicker (color selector)
 
 ### Utilities / Other
 xdg-desktop-portal-kde
