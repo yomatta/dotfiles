@@ -7,8 +7,10 @@ Purpose: Developing scripts / systems to handle my custom themes.
 * mango
 * niri
 * waybar
+    * css import file?
 * fuzzel / launcher
 * nvim
+    * lua include file? (neovim.lua sourced from 'themes' location?)
 * foot
 * btop?
 * yazi
