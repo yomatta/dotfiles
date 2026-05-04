@@ -31,3 +31,14 @@ To update the boot loader...
 * Run following command to view the PARTUUID of your available devices.
 `lsblk -o NAME,FSTYPE,UUID,PARTUUID,MOUNTPOINT,SIZE | less`
 * In Limine snapper scan, choose the appropriate boot paths.
+
+
+## Declare custom user bin path in fish ...
+
+fish:
+fish_add_path <directory>
+
+### My custom path...
+
+fish:
+fish_add_path ~/dotfiles/scripts/bin/
