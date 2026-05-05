@@ -26,6 +26,10 @@ Purpose: Developing scripts / systems to handle my custom themes.
 
 ### How do these config files handle colors? Can they be imported?
 
+* mango
+    - .conf file 
+    - format: 0xRRGGBBAA
+
 ## Theme Switching
 
 ### Configure PyWal
