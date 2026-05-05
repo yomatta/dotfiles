@@ -42,3 +42,11 @@ fish_add_path <directory>
 
 fish:
 fish_add_path ~/dotfiles/scripts/bin/
+
+# Cool BASH I've Written
+
+fd some-file -X cp {} _some/directory/path_
+    * This found some file, recursively within a directory.
+    * Copied each individual result of the above search into a new directory
+    * Nice for pulling a bunch of files from omarchy configs into a new spot for my immediate reference
+
