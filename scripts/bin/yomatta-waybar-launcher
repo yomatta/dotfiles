@@ -1,0 +1,22 @@
+#! /bin/bash
+
+set +e
+
+# Kill existing Waybar
+if pgrep -x waybar >/dev/null; then
+  pkill -x waybar
+fi
+
+# Check for custom-themed waybar config files
+echo "Initializing Waybar..."
+echo "Searching for custom Waybar theme..."
+
+if test -f $HOME/.config/themes/_current/mango-waybar-config.jsonc; then
+  echo "Waybar Theme: found!"
+  echo "Launching Waybar with custom theme..."
+  waybar -c $HOME/.config/themes/_current/mango-waybar-config.jsonc -s $HOME/.config/themes/_current/mango-waybar-style.css >/dev/null 2>&1 &
+else
+  echo "Waybar Theme: not found!"
+  echo "Launching Waybar with default theme..."
+  waybar -c $HOME/.config/mango/mango-waybar-config.jsonc -s $HOME/.config/mango/mango-waybar-style.css >/dev/null 2>&1 &
+fi

@@ -43,6 +43,10 @@ fish_add_path <directory>
 fish:
 fish_add_path ~/dotfiles/scripts/bin/
 
+## Make script file executable
+
+`chown +x _path/to/script_`
+
 # Cool BASH I've Written
 
 fd some-file -X cp {} _some/directory/path_
