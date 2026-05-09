@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# personal quick git updater. very basic.
+
+git add .
+
+git commit -m "var"
+
+git pull origin main
+
+git push origin main
