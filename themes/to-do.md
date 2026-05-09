@@ -28,6 +28,7 @@ Purpose: Developing scripts / systems to handle my custom themes.
 * nvim
     * lua include file? (neovim.lua sourced from 'themes' location?)
 * foot
+    - foot has its own theme folder with imports in the INI file. Just create a new import to the _current theme.
 * btop?
 * yazi
 
