@@ -1,0 +1,28 @@
+# Orange Planets Theme
+# theme.no-signal.uk
+
+
+accent = "#f7945b"
+cursor = "#cbdae5"
+foreground = "#cbdae5"
+background = "#0b0710"
+panel_background = "#1a1221"
+selection_foreground = "#cbdae5"
+selection_background = "#451b00"
+
+color0 = "#192026"
+color1 = "#ff8f4c"
+color2 = "#00c1fe"
+color3 = "#f39a1e"
+color4 = "#00c7e1"
+color5 = "#ff8c76"
+color6 = "#69b8ff"
+color7 = "#bec5cb"
+color8 = "#2c343a"
+color9 = "#ffb891"
+color10 = "#82d7ff"
+color11 = "#ffbb70"
+color12 = "#41e1fc"
+color13 = "#ffb6a7"
+color14 = "#9fd0ff"
+color15 = "#d8dfe5"
