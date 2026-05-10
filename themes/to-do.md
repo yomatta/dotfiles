@@ -46,3 +46,6 @@ Purpose: Developing scripts / systems to handle my custom themes.
 * What is the input command for a given background?
 * Where is the output containing the color palette?
 
+# Omarchy Theme Process
+
+
