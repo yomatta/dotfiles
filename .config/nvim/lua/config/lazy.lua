@@ -20,6 +20,23 @@ require("lazy").setup({
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     -- import/override with your plugins
     { import = "plugins" },
+    -- Other plugins...
+
+    {
+      "nvim-treesitter/nvim-treesitter",
+      build = ":TSUpdate",
+    },
+
+    {
+      "joshuadanpeterson/typewriter",
+      dependencies = {
+        "nvim-treesitter/nvim-treesitter",
+      },
+      config = function()
+        require("typewriter").setup()
+      end,
+      opts = {},
+    },
   },
   defaults = {
     -- By default, only LazyVim plugins will be lazy-loaded. Your custom plugins will load during startup.

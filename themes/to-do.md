@@ -43,6 +43,15 @@ Purpose: Developing scripts / systems to handle my custom themes.
 ### Configure PyWal
 
 * How does it work?
+
+  ```
+  wal -i <path/to/image>
+  ```
+
+  This will use the image path provided and output various color files in .config folder. 
+
+  Need to figure out how to properly utilize these outputed files in my color configurations.
+
 * What is the input command for a given background?
 * Where is the output containing the color palette?
 
