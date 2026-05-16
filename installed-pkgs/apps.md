@@ -50,7 +50,9 @@ Source: http://wiki.archlinux.org/title/Niri
 - `yazi` : terminal file explorer
 - `eza` : alternative to `ls`
 - `ticktick (aur)` : to-do list. (not sure what the actual aur package name is)
-- ncdu : interactive disk usage tool (nice for showing where all your storage space is going)
+- `ncdu` : interactive disk usage tool (nice for showing where all your storage space is going)
+- `nwg-look`, `gnome-themes-extra` : Dark Theme for GTK apps
+- `qt6ct` : Dark Theme for QT apps
 
 ### impala Setup
 

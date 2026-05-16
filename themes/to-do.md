@@ -1,5 +1,38 @@
 # Dotfiles To-Do
 
+## Dark Theme
+
+### GTK Apps
+
+`sudo pacman -S nwg-look gnome-themes-extra`
+
+`nwg-look`
+
+Switch theme to Adwaita Dark and click dropdown box to select "prefer dark"
+
+### QT Apps
+
+`sudo pacman -S qt6ct`
+
+Will need to update ENV variables (different for each WM?)
+
+#### Hyprland LUA 
+_Note_: According to Josean Martinez video "How I Setup Hyprland For An Incredible Workflow on Arch Linux"
+Time: ~30:00m
+
+Add the following to the ENVIRONMENT VARIABLES section of LUA config...
+
+`hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")`
+
+May need to reboot Hyprland at this point...
+
+Run following command and select dark theme preference...
+
+`qt6ct`
+
+> [!NOTE]
+> This process should be similar in Mango and Niri, need to research this more and update notes.
+
 ## Flag Integration
 
 * Set WM
