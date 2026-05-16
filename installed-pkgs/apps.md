@@ -4,6 +4,12 @@
 
 ## Apps To Try
 
+### Login Screen / Display Manager
+
+- `ly`
+  - Saw it briefly on an Arch setup video (Josean Martinez "how i setup hyprland for an incredible workflow on arch linux")
+  - Need to look into it to see if it might be a simple solution in my setup
+
 ### TUI File Managers
 
 - lf(?)

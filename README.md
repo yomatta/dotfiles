@@ -32,6 +32,12 @@ To update the boot loader...
 `lsblk -o NAME,FSTYPE,UUID,PARTUUID,MOUNTPOINT,SIZE | less`
 * In Limine snapper scan, choose the appropriate boot paths.
 
+### Edit Boot Screen
+
+`sudo nvim /boot/limine.conf`
+
+Use this to change some of the default settings (remember last boot / default boot / etc) and to setup visual arrangement of boot selections.
+
 
 ## Declare custom user bin path in fish ...
 
