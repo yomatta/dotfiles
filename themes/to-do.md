@@ -33,6 +33,17 @@ Run following command and select dark theme preference...
 > [!NOTE]
 > This process should be similar in Mango and Niri, need to research this more and update notes.
 
+#### Niri
+
+Input the following into the startup file for QT themeing:
+
+```
+environment {
+    QT_QPA_PLATFORMTHEME "qt6ct"
+
+}
+```
+
 ## Flag Integration
 
 * Set WM
