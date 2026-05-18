@@ -93,7 +93,7 @@ waybar
 mako
 
 ### Terminal Emulator
-foot (or alacritty)
+foot (or alacritty | ghostty)
 
 ### Text Editor
 neovim
@@ -115,6 +115,7 @@ ttf-cascadia-mono-nerd
 
 ### Art
 krita
+gimp
 blender
 obs-studio
 kdenlive
