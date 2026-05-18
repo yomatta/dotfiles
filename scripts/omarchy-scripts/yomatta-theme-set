@@ -17,6 +17,8 @@ CURRENT_THEME_PATH="$HOME/.config/themes/_current"
 #USER_THEMES_PATH="$HOME/.config/omarchy/themes"
 #OMARCHY_THEMES_PATH="$OMARCHY_PATH/themes"
 
+# sed = delete everything after a space.
+# tr = change all uppercase to lowercase.
 THEME_NAME=$(echo "$1" | sed -E 's/<[^>]+>//g' | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
 if [[ ! -d $OMARCHY_THEMES_PATH/$THEME_NAME ]] && [[ ! -d $USER_THEMES_PATH/$THEME_NAME ]]; then
@@ -33,12 +35,13 @@ cp -r "$OMARCHY_THEMES_PATH/$THEME_NAME/"* "$NEXT_THEME_PATH/" 2>/dev/null
 cp -r "$USER_THEMES_PATH/$THEME_NAME/"* "$NEXT_THEME_PATH/" 2>/dev/null
 
 # Generate colors.toml from alacritty.toml if theme is missing colors.toml
-if [[ ! -f $NEXT_THEME_PATH/colors.toml && -f $NEXT_THEME_PATH/alacritty.toml ]]; then
-  omarchy-theme-colors-from-alacritty "$NEXT_THEME_PATH"
-fi
+# if [[ ! -f $NEXT_THEME_PATH/colors.toml && -f $NEXT_THEME_PATH/alacritty.toml ]]; then
+#   omarchy-theme-colors-from-alacritty "$NEXT_THEME_PATH"
+# fi
 
 # Generate dynamic configs
-yomatta-theme-set-templates
+# THIS SCRIPT WILL TAKE COLORS.TOML AND CONVERT HEX TO RGB VALUES FOR USE IN VARIOUS CONFIGS
+# omarchy-theme-set-templates
 
 # Swap next theme in as current
 rm -rf "$CURRENT_THEME_PATH"

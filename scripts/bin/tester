@@ -1,0 +1,5 @@
+#!/bin/bash
+
+THEME_NAME=$(echo "$1" | sed -E 's/<[^>]+>//g' | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+echo "$THEME_NAME"
