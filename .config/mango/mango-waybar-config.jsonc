@@ -8,9 +8,9 @@
 
     // Choose the order of the modules
     "modules-left": [
-        "ext/workspaces"
-        //"custom/sep",
-        //"dwl/window"
+        "ext/workspaces",
+        "custom/sep",
+        "dwl/window"
     ],
     "modules-center": [
         "clock"
@@ -39,7 +39,9 @@
     },
 
     "dwl/window": {
-        "format": "[{layout}] ({title})"
+        //"format": "[{layout}] ({title})"
+        "format": "[{layout}]",
+        "tooltip": false
     },
 
     "tray": {
@@ -76,25 +78,6 @@
         "format": "M: {used}G"
     },
 
-    "disk": {
-        "interval": 60,
-        "path": "/",
-        "format": "HD: {free}"
-    },
-
-    "battery": {
-        "states": {
-            "good": 95,
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "Bat: {capacity}% {icon} {time}",
-        "format-plugged": "{capacity}% ",
-        "format-alt": "Bat {capacity}%",
-        "format-time": "{H}:{M}",
-        "format-icons": ["", "", "", "", ""]
-    },
-
     "network": {
         "format-wifi": "",
         "format-ethernet":"",
@@ -117,7 +100,7 @@
         "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
         "tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
         "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",
-        "on-click-right": "alacritty -e bluetui"
+        "on-click-right": "foot -e bluetui"
     },
 
     "pulseaudio": {
