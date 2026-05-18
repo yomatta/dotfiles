@@ -1,0 +1,28 @@
+# Made using theme.no-signal.uk
+
+accent = "#fd0194"
+cursor = "#dcd4e2"
+foreground = "#dcd4e2"
+background = "#201a37"
+hoverbg = "#4a48c9"
+panel_background = "#2f2849"
+selection_foreground = "#dcd4e2"
+selection_background = "#433a66"
+
+color0 = "#403148"
+color1 = "#fc8998"
+color2 = "#68ca80"
+color3 = "#fb9069"
+color4 = "#91adff"
+color5 = "#df90df"
+color6 = "#00c9d1"
+color7 = "#cbbed4"
+color8 = "#56465e"
+color9 = "#ffb2ba"
+color10 = "#82e499"
+color11 = "#ffb79d"
+color12 = "#b5c9ff"
+color13 = "#faa9fa"
+color14 = "#41e3eb"
+color15 = "#e5d8ee"
+
