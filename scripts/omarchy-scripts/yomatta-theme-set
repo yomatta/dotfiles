@@ -12,16 +12,20 @@ if [[ -z $1 ]]; then
   exit 1
 fi
 
+# where the active theme files are located
 CURRENT_THEME_PATH="$HOME/.config/themes/_current"
-#NEXT_THEME_PATH="$HOME/.config/omarchy/current/next-theme"
-#USER_THEMES_PATH="$HOME/.config/omarchy/themes"
-#OMARCHY_THEMES_PATH="$OMARCHY_PATH/themes"
+
+# where our theme directories live
+THEMES_PATH="$HOME/.config/themes"
+
+# temporary directory used to stage whichever theme we're switching to
+NEXT_THEME_PATH="$HOME/.config/themes/_next_theme"
 
 # sed = delete everything after a space.
 # tr = change all uppercase to lowercase.
 THEME_NAME=$(echo "$1" | sed -E 's/<[^>]+>//g' | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
-if [[ ! -d $OMARCHY_THEMES_PATH/$THEME_NAME ]] && [[ ! -d $USER_THEMES_PATH/$THEME_NAME ]]; then
+if [[ ! -d $THEMES_PATH/$THEME_NAME ]]; then
   echo "Theme '$THEME_NAME' does not exist"
   exit 1
 fi
