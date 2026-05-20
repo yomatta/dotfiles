@@ -67,8 +67,12 @@ Purpose: Developing scripts / systems to handle my custom themes.
 * mango
 * niri
 * waybar
-    * css import file?
+    - Custom .jsonc/.css files in theme/ directory. Be sure to include custom paths in autostart portion of window manager.
 * fuzzel / launcher
+    - theme/fuzzel-theme.ini
+    - _Note_: `include` path must NOT use any ENV variables ($HOME, etc).
+    - `include` needs to be at the top of the file
+    - Delete the corresponding [section] from the base config file. Else they will conflict and fuzzel will use default.
 * nvim
     * lua include file? (neovim.lua sourced from 'themes' location?)
 * foot
