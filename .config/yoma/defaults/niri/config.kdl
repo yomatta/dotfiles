@@ -1,0 +1,27 @@
+// This config is in the KDL format: https://kdl.dev
+// "/-" comments out the following node.
+// Check the wiki for a full description of the configuration:
+// https://yalter.github.io/niri/Configuration:-Introduction
+
+// *********************************************************
+// ***
+// ***                   Includes
+// ***
+// *********************************************************
+
+include "niri-animations.kdl"
+include "niri-bindings.kdl"
+include "niri-input.kdl"
+include "niri-layout.kdl"
+include "niri-monitors-desktop.kdl"
+include "niri-startup.kdl"
+include "niri-workspaces.kdl"
+
+
+// *********************************************************
+// ***
+// ***                   Includes
+// ***
+// *********************************************************
+
+// Anything written below will override any rules found in the includes above.
