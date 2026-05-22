@@ -1,0 +1,10 @@
+#! /bin/bash
+
+set +e
+
+# Kill existing Waybar
+if pgrep -x mako >/dev/null; then
+  pkill -x mako
+fi
+
+mako -c $HOME/.config/mako/config.ini &
