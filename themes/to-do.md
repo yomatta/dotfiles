@@ -64,10 +64,6 @@ Purpose: Developing scripts / systems to handle my custom themes.
 
 ## Apps To Be Themed
 
-* mango
-* niri
-* waybar
-    - Custom .jsonc/.css files in theme/ directory. Be sure to include custom paths in autostart portion of window manager.
 * fuzzel / launcher
     - theme/fuzzel-theme.ini
     - _Note_: `include` path must NOT use any ENV variables ($HOME, etc).
@@ -75,10 +71,11 @@ Purpose: Developing scripts / systems to handle my custom themes.
     - Delete the corresponding [section] from the base config file. Else they will conflict and fuzzel will use default.
 * nvim
     * lua include file? (neovim.lua sourced from 'themes' location?)
-* foot
-    - foot has its own theme folder with imports in the INI file. Just create a new import to the _current theme.
 * btop?
 * yazi
+    - Create template file from `purplebot.yazi/` toml file that can be a bit standardized.
+* mako
+    - Don't know why the config file doesn't seem to actually work at all?
 
 ### How do these config files handle colors? Can they be imported?
 
