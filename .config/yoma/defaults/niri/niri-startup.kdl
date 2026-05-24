@@ -16,7 +16,7 @@ spawn-sh-at-startup "yomatta-niri-waybar-launcher >/dev/null 2>&1 &"
 
 spawn-sh-at-startup "swaybg -i ~/.config/themes/_current/background"
 spawn-sh-at-startup "/usr/lib/polkit-kde-authentication-agent-1 &" // Polkit
-spawn-at-startup "mako"
+spawn-at-startup "mako -c ~/.config/mako/config.ini"
 spawn-at-startup "dropbox"
 
 // To run a shell command (with variables, pipes, etc.), use spawn-sh-at-startup:
