@@ -8,3 +8,4 @@ alias bsyncetc="sudo rsync -aAXHv --delete /etc/ /media/backup/etc/"
 
 alias resta="sudo reboot now"
 alias gpull="git pull origin main"
+alias gpush="git push origin main"
