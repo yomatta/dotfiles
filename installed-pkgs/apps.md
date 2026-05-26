@@ -112,6 +112,8 @@ swaybg
 ### Fonts
 ttf-jetbrains-mono-nerd
 ttf-cascadia-mono-nerd
+terminus-font (for TTY fonts) (`sudo nvim /etc/vconsole.conf` => `FONT=ter-v24b`)
+    - To temp-test font in TTY: `sudo setfont ter-v24b`
 
 ### Art
 krita
