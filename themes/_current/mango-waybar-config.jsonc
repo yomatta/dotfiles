@@ -43,7 +43,8 @@
 
     "dwl/window": {
         //"format": "[{layout}] ({title})"
-        "format": "[{layout}]",
+        "format": "[{layout}] - [{app_id} - {title}]",
+        "max-length": 50,
         "tooltip": false
     },
 
