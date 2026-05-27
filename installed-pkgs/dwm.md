@@ -40,3 +40,24 @@ _Purpose_: This is my personal-use DWM help file. For making notes while learnin
     - k
 * `setmfact` : increase/decrease the horizontal split
 * `incnmaster` : incr/decr # of master windows
+
+
+## Patches
+
+Process:
+
+`dwm.suckless.org`
+Patches
+Find patch... find appropriate .diff file.
+
+`~/dwm/patches/`
+`wget <link-to-diff-file>`
+`cd ..`
+`rm config.h`
+`patch --dry-run < patches/patch-diff-file.diff`
+
+`--dry-run` flag will allow you to test-install the patch prior to actually compiling it.
+If there are any errors in the above command, will need to troubleshoot.
+
+If there are no errors...
+`patch < patches/patch-diff-file.diff`
