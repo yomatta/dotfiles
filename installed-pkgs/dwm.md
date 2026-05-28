@@ -5,20 +5,20 @@ _Purpose_: This is my personal-use DWM help file. For making notes while learnin
 ## To Do
 
 [] external monitor support (laptop)
-[] dropbox autostart
+[x] dropbox autostart
 [] system tray?
 [] Switch alt/win 
 [] bluetooth integration (bluetui)
 [] network integration (impala)
-[] volume integration (pavu ?)
+[] volume integration (pavucontrol)
 [] keybind updates
-    [] close window
-    [] terminal
-    [] browser
+    [x] close window
+    [x] terminal
+    [x] browser
     [] btop
-    [] file explorer / yazi
-    [] close all (ctrl mod del)
-    [] launcher
+    [x] file explorer / yazi
+    [x] close all (ctrl mod del)
+    [x] launcher
 [] rofi integration / themeing
     - Should I use a different launcher here? 
     - Or bite the bullet and setup Rofi like everyone else?...
@@ -61,3 +61,13 @@ If there are any errors in the above command, will need to troubleshoot.
 
 If there are no errors...
 `patch < patches/patch-diff-file.diff`
+
+## Multi Monitor
+
+`xrandr` : to show current monitor outputs.
+
+* It looks like you can just use the above command + flags to configure the monitor(s) in real time?
+    - See `tldr xrandr` for more.
+
+
+
