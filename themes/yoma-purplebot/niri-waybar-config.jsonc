@@ -4,14 +4,13 @@
     "layer": "top", 
     "position": "top", 
     // "height": 30, 
-    "height": 15, 
+    "height": 30, 
     "spacing": 4, 
 
     // Choose the order of the modules
     "modules-left": [
         "ext/workspaces",
-        "custom/sep",
-        "dwl/window"
+        "custom/sep"
     ],
     "modules-center": [
         "clock"
@@ -43,8 +42,7 @@
 
     "dwl/window": {
         //"format": "[{layout}] ({title})"
-        "format": "[{layout}] - [{app_id} - {title}]",
-        "max-length": 50,
+        "format": "[{layout}]",
         "tooltip": false
     },
 
