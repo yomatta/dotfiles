@@ -7,18 +7,18 @@ _Purpose_: This is my personal-use DWM help file. For making notes while learnin
 [] external monitor support (laptop)
 [x] dropbox autostart
 [] system tray?
-[] Switch alt/win 
+[x] Switch alt/win 
 [] bluetooth integration (bluetui)
 [] network integration (impala)
-[] volume integration (pavucontrol)
+[x] volume integration (wiremixer)
 [] keybind updates
     [x] close window
     [x] terminal
     [x] browser
-    [] btop
+    [x] btop
     [x] file explorer / yazi
     [x] close all (ctrl mod del)
-    [x] launcher
+    [x] launcher (rofi)
 [] rofi integration / themeing
     - Should I use a different launcher here? 
     - Or bite the bullet and setup Rofi like everyone else?...
