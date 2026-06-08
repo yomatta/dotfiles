@@ -1,0 +1,92 @@
+#!/bin/bash
+
+# Modified from Omarchy scripts
+# https://github.com/basecamp/omarchy.git
+
+# omarchy:summary=Apply an Omarchy theme
+# omarchy:args=<theme-name>
+# omarchy:examples=omarchy theme list | omarchy theme set "Tokyo Night"
+
+if [[ -z $1 ]]; then
+  echo "Usage: yoma-theme-set <theme-name>"
+  exit 1
+fi
+
+# where the active theme files are located
+CURRENT_THEME_PATH="$HOME/.config/themes/_current"
+
+# where our theme directories live
+THEMES_PATH="$HOME/.config/themes"
+
+# temporary directory used to stage whichever theme we're switching to
+NEXT_THEME_PATH="$HOME/.config/themes/_next_theme"
+
+# sed = delete everything after a space.
+# tr = change all uppercase to lowercase.
+THEME_NAME=$(echo "$1" | sed -E 's/<[^>]+>//g' | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+if [[ ! -d $THEMES_PATH/$THEME_NAME ]]; then
+  echo "Theme '$THEME_NAME' does not exist"
+  exit 1
+fi
+
+# Setup clean next theme directory (for atomic theme config swapping)
+rm -rf "$NEXT_THEME_PATH"
+mkdir -p "$NEXT_THEME_PATH"
+
+# Copy official theme first, then overlay user customizations on top
+cp -r "$THEMES_PATH/$THEME_NAME/"* "$NEXT_THEME_PATH/" 2>/dev/null
+
+# Generate colors.toml from alacritty.toml if theme is missing colors.toml
+# if [[ ! -f $NEXT_THEME_PATH/colors.toml && -f $NEXT_THEME_PATH/alacritty.toml ]]; then
+#   omarchy-theme-colors-from-alacritty "$NEXT_THEME_PATH"
+# fi
+
+# Generate dynamic configs
+# THIS SCRIPT WILL TAKE COLORS.TOML AND CONVERT HEX TO RGB VALUES FOR USE IN VARIOUS CONFIGS
+# omarchy-theme-set-templates
+
+# Swap next theme in as current
+rm -rf "$CURRENT_THEME_PATH"
+mv "$NEXT_THEME_PATH" "$CURRENT_THEME_PATH"
+
+# Store theme name for reference
+echo "$THEME_NAME" >"$HOME/.config/omarchy/current/theme.name"
+
+# Change background with theme
+yoma-theme-bg-next
+
+### Need Waybar Relauncher to be more elegant depending on the window manager.
+# My Mango doesn't need its own relauncher because it is handled on config-reload.
+
+# Restart components to apply new theme
+# if pgrep -x waybar >/dev/null; then
+#   omarchy-restart-waybar
+# fi
+
+# Reload Mango (check if running mango, then reload)
+if test -f ~/.config/_flags/env/mango-desktop; then
+  mmsg -d reload_config
+fi
+
+# Restart terminal (foot/alacritty/ghostty/kitty)
+yoma-restart-terminal
+
+# Restart btop
+# yoma-restart-btop
+pkill -SIGUSR2 btop
+
+# Restart yazi
+pkill -SIGUSR2 yazi
+
+# Restart Mako
+makoctl reload
+
+# Change app-specific themes
+# omarchy-theme-set-obsidian
+# omarchy-theme-set-browser
+# yoma-theme-set-gnome
+# omarchy-restart-hyprctl
+
+# Call hook on theme set
+# omarchy-hook theme-set "$THEME_NAME"
