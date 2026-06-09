@@ -100,6 +100,7 @@ neovim
 
 ### App launcher
 fuzzel
+rofi
 
 ### File Explorers
 yazi
@@ -135,6 +136,7 @@ tree
 fzf
 eza
 ncdu
+dysk
 chromium
 dropbox(AUR)
 ticktick(AUR)
