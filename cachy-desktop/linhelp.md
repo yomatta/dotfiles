@@ -53,7 +53,7 @@ fish_add_path ~/dotfiles/scripts/bin/
 
 `chown +x _path/to/script_`
 
-# Cool BASH I've Written
+## Cool BASH I've Written
 
 fd some-file -X cp {} _some/directory/path_
     * This found some file, recursively within a directory.
